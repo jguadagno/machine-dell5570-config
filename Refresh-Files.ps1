@@ -15,5 +15,5 @@ Copy-Item -Path $PROFILE
 git add .
 
 $gitMessage = "Updated files  $(Get-Date)"
-git commit -M
+git commit -m $gitMessage
 git push
