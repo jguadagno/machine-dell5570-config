@@ -1,6 +1,4 @@
-# C:\Users\JosephGuadagno\OneDrive - Real Time Technologies, Inc\Documents\UniGetUi
-
-
+# Initial common vairables
 $MyDocumentsFolder = [Environment]::GetFolderPath('MyDocuments')
 
 # Get the latest UniGet Bundle
@@ -14,6 +12,7 @@ git add $UniGetBackupName
 Copy-Item -Path $PROFILE
 git add .
 
+# Commit the updated files to git
 $gitMessage = "Updated files  $(Get-Date)"
 git commit -m $gitMessage
 git push
