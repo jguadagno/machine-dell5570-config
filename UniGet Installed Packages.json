@@ -25,9 +25,78 @@
       }
     },
     {
+      "Id": "@ionic/cli",
+      "Name": "Cli",
+      "Version": "7.2.0",
+      "Source": "npm",
+      "ManagerName": "Npm",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "AgileBits.1Password",
+      "Name": "1Password",
+      "Version": "8.10.64",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "AgileBits.1Password.CLI",
+      "Name": "1Password CLI",
+      "Version": "2.30.3",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "Az",
       "Name": "Az",
-      "Version": "13.2.0",
+      "Version": "13.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -347,8 +416,8 @@
       }
     },
     {
-      "Id": "Az.AnalysisServices",
-      "Name": "Az.AnalysisServices",
+      "Id": "Az.Analysi.",
+      "Name": "Az.Analysi.",
       "Version": "1.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -370,8 +439,8 @@
       }
     },
     {
-      "Id": "Az.AnalysisServices",
-      "Name": "Az.AnalysisServices",
+      "Id": "Az.Analysi.",
+      "Name": "Az.Analysi.",
       "Version": "1.1.6",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -393,8 +462,8 @@
       }
     },
     {
-      "Id": "Az.AnalysisServices",
-      "Name": "Az.AnalysisServices",
+      "Id": "Az.Analysi.",
+      "Name": "Az.Analysi.",
       "Version": "1.1.5",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -416,8 +485,8 @@
       }
     },
     {
-      "Id": "Az.AnalysisServices",
-      "Name": "Az.AnalysisServices",
+      "Id": "Az.Analysi.",
+      "Name": "Az.Analysi.",
       "Version": "1.1.4",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -439,8 +508,8 @@
       }
     },
     {
-      "Id": "Az.ApiManagement",
-      "Name": "Az.ApiManagement",
+      "Id": "Az.ApiMana.",
+      "Name": "Az.ApiMana.",
       "Version": "4.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -462,8 +531,8 @@
       }
     },
     {
-      "Id": "Az.ApiManagement",
-      "Name": "Az.ApiManagement",
+      "Id": "Az.ApiMana.",
+      "Name": "Az.ApiMana.",
       "Version": "4.0.5",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -485,8 +554,8 @@
       }
     },
     {
-      "Id": "Az.ApiManagement",
-      "Name": "Az.ApiManagement",
+      "Id": "Az.ApiMana.",
+      "Name": "Az.ApiMana.",
       "Version": "4.0.4",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -508,8 +577,8 @@
       }
     },
     {
-      "Id": "Az.ApiManagement",
-      "Name": "Az.ApiManagement",
+      "Id": "Az.ApiMana.",
+      "Name": "Az.ApiMana.",
       "Version": "4.0.3",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -531,8 +600,8 @@
       }
     },
     {
-      "Id": "Az.ApiManagement",
-      "Name": "Az.ApiManagement",
+      "Id": "Az.ApiMana.",
+      "Name": "Az.ApiMana.",
       "Version": "4.0.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -669,8 +738,8 @@
       }
     },
     {
-      "Id": "Az.AppConfiguration",
-      "Name": "Az.AppConfiguration",
+      "Id": "Az.AppConf.",
+      "Name": "Az.AppConf.",
       "Version": "1.4.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -692,8 +761,8 @@
       }
     },
     {
-      "Id": "Az.AppConfiguration",
-      "Name": "Az.AppConfiguration",
+      "Id": "Az.AppConf.",
+      "Name": "Az.AppConf.",
       "Version": "1.3.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -715,8 +784,8 @@
       }
     },
     {
-      "Id": "Az.AppConfiguration",
-      "Name": "Az.AppConfiguration",
+      "Id": "Az.AppConf.",
+      "Name": "Az.AppConf.",
       "Version": "1.3.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -738,8 +807,8 @@
       }
     },
     {
-      "Id": "Az.AppConfiguration",
-      "Name": "Az.AppConfiguration",
+      "Id": "Az.AppConf.",
+      "Name": "Az.AppConf.",
       "Version": "1.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -761,8 +830,8 @@
       }
     },
     {
-      "Id": "Az.ApplicationInsights",
-      "Name": "Az.ApplicationInsights",
+      "Id": "Az.Applica.",
+      "Name": "Az.Applica.",
       "Version": "2.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -784,8 +853,8 @@
       }
     },
     {
-      "Id": "Az.ApplicationInsights",
-      "Name": "Az.ApplicationInsights",
+      "Id": "Az.Applica.",
+      "Name": "Az.Applica.",
       "Version": "2.2.5",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -807,8 +876,8 @@
       }
     },
     {
-      "Id": "Az.ApplicationInsights",
-      "Name": "Az.ApplicationInsights",
+      "Id": "Az.Applica.",
+      "Name": "Az.Applica.",
       "Version": "2.2.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -830,8 +899,8 @@
       }
     },
     {
-      "Id": "Az.ArcResourceBridge",
-      "Name": "Az.ArcResourceBridge",
+      "Id": "Az.ArcReso.",
+      "Name": "Az.ArcReso.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -853,8 +922,8 @@
       }
     },
     {
-      "Id": "Az.ArcResourceBridge",
-      "Name": "Az.ArcResourceBridge",
+      "Id": "Az.ArcReso.",
+      "Name": "Az.ArcReso.",
       "Version": "1.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -876,8 +945,8 @@
       }
     },
     {
-      "Id": "Az.ArcResourceBridge",
-      "Name": "Az.ArcResourceBridge",
+      "Id": "Az.ArcReso.",
+      "Name": "Az.ArcReso.",
       "Version": "1.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -899,8 +968,8 @@
       }
     },
     {
-      "Id": "Az.Attestation",
-      "Name": "Az.Attestation",
+      "Id": "Az.Attesta.",
+      "Name": "Az.Attesta.",
       "Version": "2.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -922,8 +991,8 @@
       }
     },
     {
-      "Id": "Az.Attestation",
-      "Name": "Az.Attestation",
+      "Id": "Az.Attesta.",
+      "Name": "Az.Attesta.",
       "Version": "2.0.3",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -945,8 +1014,8 @@
       }
     },
     {
-      "Id": "Az.Attestation",
-      "Name": "Az.Attestation",
+      "Id": "Az.Attesta.",
+      "Name": "Az.Attesta.",
       "Version": "2.0.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -968,8 +1037,8 @@
       }
     },
     {
-      "Id": "Az.Attestation",
-      "Name": "Az.Attestation",
+      "Id": "Az.Attesta.",
+      "Name": "Az.Attesta.",
       "Version": "2.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -991,8 +1060,8 @@
       }
     },
     {
-      "Id": "Az.Automanage",
-      "Name": "Az.Automanage",
+      "Id": "Az.Automan.",
+      "Name": "Az.Automan.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1014,8 +1083,8 @@
       }
     },
     {
-      "Id": "Az.Automanage",
-      "Name": "Az.Automanage",
+      "Id": "Az.Automan.",
+      "Name": "Az.Automan.",
       "Version": "1.0.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1037,8 +1106,8 @@
       }
     },
     {
-      "Id": "Az.Automanage",
-      "Name": "Az.Automanage",
+      "Id": "Az.Automan.",
+      "Name": "Az.Automan.",
       "Version": "1.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1060,8 +1129,8 @@
       }
     },
     {
-      "Id": "Az.Automanage",
-      "Name": "Az.Automanage",
+      "Id": "Az.Automan.",
+      "Name": "Az.Automan.",
       "Version": "1.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1083,8 +1152,8 @@
       }
     },
     {
-      "Id": "Az.Automation",
-      "Name": "Az.Automation",
+      "Id": "Az.Automat.",
+      "Name": "Az.Automat.",
       "Version": "1.11.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1106,8 +1175,8 @@
       }
     },
     {
-      "Id": "Az.Automation",
-      "Name": "Az.Automation",
+      "Id": "Az.Automat.",
+      "Name": "Az.Automat.",
       "Version": "1.11.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1129,8 +1198,8 @@
       }
     },
     {
-      "Id": "Az.Automation",
-      "Name": "Az.Automation",
+      "Id": "Az.Automat.",
+      "Name": "Az.Automat.",
       "Version": "1.10.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1152,8 +1221,8 @@
       }
     },
     {
-      "Id": "Az.Automation",
-      "Name": "Az.Automation",
+      "Id": "Az.Automat.",
+      "Name": "Az.Automat.",
       "Version": "1.9.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1474,8 +1543,8 @@
       }
     },
     {
-      "Id": "Az.CloudService",
-      "Name": "Az.CloudService",
+      "Id": "Az.CloudSe.",
+      "Name": "Az.CloudSe.",
       "Version": "2.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1497,8 +1566,8 @@
       }
     },
     {
-      "Id": "Az.CloudService",
-      "Name": "Az.CloudService",
+      "Id": "Az.CloudSe.",
+      "Name": "Az.CloudSe.",
       "Version": "2.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1520,8 +1589,8 @@
       }
     },
     {
-      "Id": "Az.CloudService",
-      "Name": "Az.CloudService",
+      "Id": "Az.CloudSe.",
+      "Name": "Az.CloudSe.",
       "Version": "1.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1543,8 +1612,8 @@
       }
     },
     {
-      "Id": "Az.CognitiveServices",
-      "Name": "Az.CognitiveServices",
+      "Id": "Az.Cogniti.",
+      "Name": "Az.Cogniti.",
       "Version": "1.15.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1566,8 +1635,8 @@
       }
     },
     {
-      "Id": "Az.CognitiveServices",
-      "Name": "Az.CognitiveServices",
+      "Id": "Az.Cogniti.",
+      "Name": "Az.Cogniti.",
       "Version": "1.14.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1589,8 +1658,8 @@
       }
     },
     {
-      "Id": "Az.CognitiveServices",
-      "Name": "Az.CognitiveServices",
+      "Id": "Az.Cogniti.",
+      "Name": "Az.Cogniti.",
       "Version": "1.14.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1773,8 +1842,8 @@
       }
     },
     {
-      "Id": "Az.ConfidentialLedger",
-      "Name": "Az.ConfidentialLedger",
+      "Id": "Az.Confide.",
+      "Name": "Az.Confide.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1796,8 +1865,8 @@
       }
     },
     {
-      "Id": "Az.ConfidentialLedger",
-      "Name": "Az.ConfidentialLedger",
+      "Id": "Az.Confide.",
+      "Name": "Az.Confide.",
       "Version": "1.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1819,8 +1888,8 @@
       }
     },
     {
-      "Id": "Az.ConfidentialLedger",
-      "Name": "Az.ConfidentialLedger",
+      "Id": "Az.Confide.",
+      "Name": "Az.Confide.",
       "Version": "1.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1842,8 +1911,8 @@
       }
     },
     {
-      "Id": "Az.ConnectedMachine",
-      "Name": "Az.ConnectedMachine",
+      "Id": "Az.Connect.",
+      "Name": "Az.Connect.",
       "Version": "1.1.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1865,8 +1934,8 @@
       }
     },
     {
-      "Id": "Az.ConnectedMachine",
-      "Name": "Az.ConnectedMachine",
+      "Id": "Az.Connect.",
+      "Name": "Az.Connect.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -1888,123 +1957,8 @@
       }
     },
     {
-      "Id": "Az.ContainerInstance",
-      "Name": "Az.ContainerInstance",
-      "Version": "4.1.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ContainerInstance",
-      "Name": "Az.ContainerInstance",
-      "Version": "4.1.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ContainerInstance",
-      "Name": "Az.ContainerInstance",
-      "Version": "4.0.2",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ContainerInstance",
-      "Name": "Az.ContainerInstance",
-      "Version": "4.0.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ContainerInstance",
-      "Name": "Az.ContainerInstance",
-      "Version": "3.2.2",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ContainerRegistry",
-      "Name": "Az.ContainerRegistry",
+      "Id": "Az.Contain.",
+      "Name": "Az.Contain.",
       "Version": "4.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2026,8 +1980,8 @@
       }
     },
     {
-      "Id": "Az.ContainerRegistry",
-      "Name": "Az.ContainerRegistry",
+      "Id": "Az.Contain.",
+      "Name": "Az.Contain.",
       "Version": "4.2.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2049,8 +2003,8 @@
       }
     },
     {
-      "Id": "Az.ContainerRegistry",
-      "Name": "Az.ContainerRegistry",
+      "Id": "Az.Contain.",
+      "Name": "Az.Contain.",
       "Version": "4.1.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2072,9 +2026,78 @@
       }
     },
     {
-      "Id": "Az.CosmosDB",
-      "Name": "Az.CosmosDB",
-      "Version": "1.16.0",
+      "Id": "Az.Contain.",
+      "Name": "Az.Contain.",
+      "Version": "4.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Contain.",
+      "Name": "Az.Contain.",
+      "Version": "4.0.2",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Contain.",
+      "Name": "Az.Contain.",
+      "Version": "4.0.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Contain.",
+      "Name": "Az.Contain.",
+      "Version": "3.2.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -2097,7 +2120,32 @@
     {
       "Id": "Az.CosmosDB",
       "Name": "Az.CosmosDB",
-      "Version": "1.15.0",
+      "Version": "1.18.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [
+          ""
+        ],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataBox.",
+      "Name": "Az.DataBox.",
+      "Version": "1.2.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -2118,77 +2166,8 @@
       }
     },
     {
-      "Id": "Az.CosmosDB",
-      "Name": "Az.CosmosDB",
-      "Version": "1.14.5",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.CosmosDB",
-      "Name": "Az.CosmosDB",
-      "Version": "1.14.4",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.CosmosDB",
-      "Name": "Az.CosmosDB",
-      "Version": "1.12.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DataBoxEdge",
-      "Name": "Az.DataBoxEdge",
+      "Id": "Az.DataBox.",
+      "Name": "Az.DataBox.",
       "Version": "1.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2210,8 +2189,8 @@
       }
     },
     {
-      "Id": "Az.DataBoxEdge",
-      "Name": "Az.DataBoxEdge",
+      "Id": "Az.DataBox.",
+      "Name": "Az.DataBox.",
       "Version": "1.1.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2233,8 +2212,8 @@
       }
     },
     {
-      "Id": "Az.DataBoxEdge",
-      "Name": "Az.DataBoxEdge",
+      "Id": "Az.DataBox.",
+      "Name": "Az.DataBox.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2256,8 +2235,31 @@
       }
     },
     {
-      "Id": "Az.DataFactory",
-      "Name": "Az.DataFactory",
+      "Id": "Az.DataFac.",
+      "Name": "Az.DataFac.",
+      "Version": "1.19.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataFac.",
+      "Name": "Az.DataFac.",
       "Version": "1.19.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2279,8 +2281,8 @@
       }
     },
     {
-      "Id": "Az.DataFactory",
-      "Name": "Az.DataFactory",
+      "Id": "Az.DataFac.",
+      "Name": "Az.DataFac.",
       "Version": "1.18.9",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2302,8 +2304,8 @@
       }
     },
     {
-      "Id": "Az.DataFactory",
-      "Name": "Az.DataFactory",
+      "Id": "Az.DataFac.",
+      "Name": "Az.DataFac.",
       "Version": "1.18.8",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2325,8 +2327,8 @@
       }
     },
     {
-      "Id": "Az.DataFactory",
-      "Name": "Az.DataFactory",
+      "Id": "Az.DataFac.",
+      "Name": "Az.DataFac.",
       "Version": "1.18.7",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2348,8 +2350,8 @@
       }
     },
     {
-      "Id": "Az.DataFactory",
-      "Name": "Az.DataFactory",
+      "Id": "Az.DataFac.",
+      "Name": "Az.DataFac.",
       "Version": "1.18.6",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2371,8 +2373,8 @@
       }
     },
     {
-      "Id": "Az.DataFactory",
-      "Name": "Az.DataFactory",
+      "Id": "Az.DataFac.",
+      "Name": "Az.DataFac.",
       "Version": "1.17.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2394,54 +2396,8 @@
       }
     },
     {
-      "Id": "Az.DataLakeAnalytics",
-      "Name": "Az.DataLakeAnalytics",
-      "Version": "1.1.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DataLakeAnalytics",
-      "Name": "Az.DataLakeAnalytics",
-      "Version": "1.0.3",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DataLakeStore",
-      "Name": "Az.DataLakeStore",
+      "Id": "Az.DataLak.",
+      "Name": "Az.DataLak.",
       "Version": "1.4.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2463,8 +2419,8 @@
       }
     },
     {
-      "Id": "Az.DataLakeStore",
-      "Name": "Az.DataLakeStore",
+      "Id": "Az.DataLak.",
+      "Name": "Az.DataLak.",
       "Version": "1.3.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2486,8 +2442,8 @@
       }
     },
     {
-      "Id": "Az.DataLakeStore",
-      "Name": "Az.DataLakeStore",
+      "Id": "Az.DataLak.",
+      "Name": "Az.DataLak.",
       "Version": "1.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2509,123 +2465,8 @@
       }
     },
     {
-      "Id": "Az.DataProtection",
-      "Name": "Az.DataProtection",
-      "Version": "2.6.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DataProtection",
-      "Name": "Az.DataProtection",
-      "Version": "2.6.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DataProtection",
-      "Name": "Az.DataProtection",
-      "Version": "2.5.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DataProtection",
-      "Name": "Az.DataProtection",
-      "Version": "2.4.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DataProtection",
-      "Name": "Az.DataProtection",
-      "Version": "2.1.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DataShare",
-      "Name": "Az.DataShare",
+      "Id": "Az.DataLak.",
+      "Name": "Az.DataLak.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -2647,376 +2488,8 @@
       }
     },
     {
-      "Id": "Az.DataShare",
-      "Name": "Az.DataShare",
-      "Version": "1.0.2",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DataShare",
-      "Name": "Az.DataShare",
-      "Version": "1.0.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.Databricks",
-      "Name": "Az.Databricks",
-      "Version": "1.10.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.Databricks",
-      "Name": "Az.Databricks",
-      "Version": "1.9.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.Databricks",
-      "Name": "Az.Databricks",
-      "Version": "1.8.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.Databricks",
-      "Name": "Az.Databricks",
-      "Version": "1.7.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DeploymentManager",
-      "Name": "Az.DeploymentManager",
-      "Version": "1.1.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DesktopVirtualizat.",
-      "Name": "Az.DesktopVirtualizat.",
-      "Version": "5.4.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DesktopVirtualizat.",
-      "Name": "Az.DesktopVirtualizat.",
-      "Version": "5.4.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DesktopVirtualizat.",
-      "Name": "Az.DesktopVirtualizat.",
-      "Version": "4.3.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DesktopVirtualizat.",
-      "Name": "Az.DesktopVirtualizat.",
-      "Version": "4.0.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DevCenter",
-      "Name": "Az.DevCenter",
-      "Version": "2.0.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DevCenter",
-      "Name": "Az.DevCenter",
-      "Version": "2.0.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DevCenter",
-      "Name": "Az.DevCenter",
-      "Version": "1.2.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DevCenter",
-      "Name": "Az.DevCenter",
-      "Version": "1.1.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DevTestLabs",
-      "Name": "Az.DevTestLabs",
-      "Version": "1.1.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.DevTestLabs",
-      "Name": "Az.DevTestLabs",
+      "Id": "Az.DataLak.",
+      "Name": "Az.DataLak.",
       "Version": "1.0.3",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3038,8 +2511,560 @@
       }
     },
     {
-      "Id": "Az.DevTestLabs",
-      "Name": "Az.DevTestLabs",
+      "Id": "Az.DataPro.",
+      "Name": "Az.DataPro.",
+      "Version": "2.6.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataPro.",
+      "Name": "Az.DataPro.",
+      "Version": "2.6.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataPro.",
+      "Name": "Az.DataPro.",
+      "Version": "2.5.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataPro.",
+      "Name": "Az.DataPro.",
+      "Version": "2.4.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataPro.",
+      "Name": "Az.DataPro.",
+      "Version": "2.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataSha.",
+      "Name": "Az.DataSha.",
+      "Version": "1.1.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataSha.",
+      "Name": "Az.DataSha.",
+      "Version": "1.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataSha.",
+      "Name": "Az.DataSha.",
+      "Version": "1.0.2",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DataSha.",
+      "Name": "Az.DataSha.",
+      "Version": "1.0.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Databri.",
+      "Name": "Az.Databri.",
+      "Version": "1.10.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Databri.",
+      "Name": "Az.Databri.",
+      "Version": "1.9.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Databri.",
+      "Name": "Az.Databri.",
+      "Version": "1.8.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Databri.",
+      "Name": "Az.Databri.",
+      "Version": "1.7.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Deploym.",
+      "Name": "Az.Deploym.",
+      "Version": "1.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Desktop.",
+      "Name": "Az.Desktop.",
+      "Version": "5.4.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Desktop.",
+      "Name": "Az.Desktop.",
+      "Version": "5.4.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Desktop.",
+      "Name": "Az.Desktop.",
+      "Version": "4.3.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Desktop.",
+      "Name": "Az.Desktop.",
+      "Version": "4.0.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DevCent.",
+      "Name": "Az.DevCent.",
+      "Version": "2.0.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DevCent.",
+      "Name": "Az.DevCent.",
+      "Version": "2.0.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DevCent.",
+      "Name": "Az.DevCent.",
+      "Version": "1.2.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DevCent.",
+      "Name": "Az.DevCent.",
+      "Version": "1.1.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DevTest.",
+      "Name": "Az.DevTest.",
+      "Version": "1.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DevTest.",
+      "Name": "Az.DevTest.",
+      "Version": "1.0.3",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.DevTest.",
+      "Name": "Az.DevTest.",
       "Version": "1.0.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3153,8 +3178,8 @@
       }
     },
     {
-      "Id": "Az.DnsResolver",
-      "Name": "Az.DnsResolver",
+      "Id": "Az.DnsReso.",
+      "Name": "Az.DnsReso.",
       "Version": "1.1.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3176,8 +3201,8 @@
       }
     },
     {
-      "Id": "Az.DnsResolver",
-      "Name": "Az.DnsResolver",
+      "Id": "Az.DnsReso.",
+      "Name": "Az.DnsReso.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3199,8 +3224,8 @@
       }
     },
     {
-      "Id": "Az.DnsResolver",
-      "Name": "Az.DnsResolver",
+      "Id": "Az.DnsReso.",
+      "Name": "Az.DnsReso.",
       "Version": "1.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3222,8 +3247,8 @@
       }
     },
     {
-      "Id": "Az.ElasticSan",
-      "Name": "Az.ElasticSan",
+      "Id": "Az.Elastic.",
+      "Name": "Az.Elastic.",
       "Version": "1.2.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3245,8 +3270,8 @@
       }
     },
     {
-      "Id": "Az.ElasticSan",
-      "Name": "Az.ElasticSan",
+      "Id": "Az.Elastic.",
+      "Name": "Az.Elastic.",
       "Version": "1.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3268,8 +3293,8 @@
       }
     },
     {
-      "Id": "Az.ElasticSan",
-      "Name": "Az.ElasticSan",
+      "Id": "Az.Elastic.",
+      "Name": "Az.Elastic.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3291,8 +3316,8 @@
       }
     },
     {
-      "Id": "Az.ElasticSan",
-      "Name": "Az.ElasticSan",
+      "Id": "Az.Elastic.",
+      "Name": "Az.Elastic.",
       "Version": "1.0.3",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3314,8 +3339,8 @@
       }
     },
     {
-      "Id": "Az.ElasticSan",
-      "Name": "Az.ElasticSan",
+      "Id": "Az.Elastic.",
+      "Name": "Az.Elastic.",
       "Version": "1.0.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3337,8 +3362,8 @@
       }
     },
     {
-      "Id": "Az.EventGrid",
-      "Name": "Az.EventGrid",
+      "Id": "Az.EventGr.",
+      "Name": "Az.EventGr.",
       "Version": "2.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3360,8 +3385,8 @@
       }
     },
     {
-      "Id": "Az.EventGrid",
-      "Name": "Az.EventGrid",
+      "Id": "Az.EventGr.",
+      "Name": "Az.EventGr.",
       "Version": "2.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3383,8 +3408,8 @@
       }
     },
     {
-      "Id": "Az.EventGrid",
-      "Name": "Az.EventGrid",
+      "Id": "Az.EventGr.",
+      "Name": "Az.EventGr.",
       "Version": "2.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3406,8 +3431,8 @@
       }
     },
     {
-      "Id": "Az.EventGrid",
-      "Name": "Az.EventGrid",
+      "Id": "Az.EventGr.",
+      "Name": "Az.EventGr.",
       "Version": "1.6.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3544,8 +3569,8 @@
       }
     },
     {
-      "Id": "Az.FrontDoor",
-      "Name": "Az.FrontDoor",
+      "Id": "Az.FrontDo.",
+      "Name": "Az.FrontDo.",
       "Version": "1.12.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3567,8 +3592,8 @@
       }
     },
     {
-      "Id": "Az.FrontDoor",
-      "Name": "Az.FrontDoor",
+      "Id": "Az.FrontDo.",
+      "Name": "Az.FrontDo.",
       "Version": "1.11.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3590,8 +3615,8 @@
       }
     },
     {
-      "Id": "Az.FrontDoor",
-      "Name": "Az.FrontDoor",
+      "Id": "Az.FrontDo.",
+      "Name": "Az.FrontDo.",
       "Version": "1.10.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3613,8 +3638,8 @@
       }
     },
     {
-      "Id": "Az.Functions",
-      "Name": "Az.Functions",
+      "Id": "Az.Functio.",
+      "Name": "Az.Functio.",
       "Version": "4.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3636,8 +3661,8 @@
       }
     },
     {
-      "Id": "Az.Functions",
-      "Name": "Az.Functions",
+      "Id": "Az.Functio.",
+      "Name": "Az.Functio.",
       "Version": "4.1.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3659,8 +3684,8 @@
       }
     },
     {
-      "Id": "Az.Functions",
-      "Name": "Az.Functions",
+      "Id": "Az.Functio.",
+      "Name": "Az.Functio.",
       "Version": "4.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3682,8 +3707,8 @@
       }
     },
     {
-      "Id": "Az.Functions",
-      "Name": "Az.Functions",
+      "Id": "Az.Functio.",
+      "Name": "Az.Functio.",
       "Version": "4.0.6",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3705,8 +3730,8 @@
       }
     },
     {
-      "Id": "Az.HDInsight",
-      "Name": "Az.HDInsight",
+      "Id": "Az.HDInsig.",
+      "Name": "Az.HDInsig.",
       "Version": "6.3.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3728,8 +3753,8 @@
       }
     },
     {
-      "Id": "Az.HDInsight",
-      "Name": "Az.HDInsight",
+      "Id": "Az.HDInsig.",
+      "Name": "Az.HDInsig.",
       "Version": "6.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3751,8 +3776,8 @@
       }
     },
     {
-      "Id": "Az.HDInsight",
-      "Name": "Az.HDInsight",
+      "Id": "Az.HDInsig.",
+      "Name": "Az.HDInsig.",
       "Version": "6.2.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3774,8 +3799,8 @@
       }
     },
     {
-      "Id": "Az.HDInsight",
-      "Name": "Az.HDInsight",
+      "Id": "Az.HDInsig.",
+      "Name": "Az.HDInsig.",
       "Version": "6.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3797,8 +3822,8 @@
       }
     },
     {
-      "Id": "Az.HDInsight",
-      "Name": "Az.HDInsight",
+      "Id": "Az.HDInsig.",
+      "Name": "Az.HDInsig.",
       "Version": "6.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3820,8 +3845,8 @@
       }
     },
     {
-      "Id": "Az.HDInsight",
-      "Name": "Az.HDInsight",
+      "Id": "Az.HDInsig.",
+      "Name": "Az.HDInsig.",
       "Version": "6.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3843,8 +3868,8 @@
       }
     },
     {
-      "Id": "Az.HealthDataAIServic.",
-      "Name": "Az.HealthDataAIServic.",
+      "Id": "Az.HealthD.",
+      "Name": "Az.HealthD.",
       "Version": "1.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3866,8 +3891,8 @@
       }
     },
     {
-      "Id": "Az.HealthcareApis",
-      "Name": "Az.HealthcareApis",
+      "Id": "Az.Healthc.",
+      "Name": "Az.Healthc.",
       "Version": "2.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3889,8 +3914,8 @@
       }
     },
     {
-      "Id": "Az.HealthcareApis",
-      "Name": "Az.HealthcareApis",
+      "Id": "Az.Healthc.",
+      "Name": "Az.Healthc.",
       "Version": "2.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -3912,8 +3937,8 @@
       }
     },
     {
-      "Id": "Az.HealthcareApis",
-      "Name": "Az.HealthcareApis",
+      "Id": "Az.Healthc.",
+      "Name": "Az.Healthc.",
       "Version": "2.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4234,8 +4259,8 @@
       }
     },
     {
-      "Id": "Az.LoadTesting",
-      "Name": "Az.LoadTesting",
+      "Id": "Az.LoadTes.",
+      "Name": "Az.LoadTes.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4257,8 +4282,8 @@
       }
     },
     {
-      "Id": "Az.LoadTesting",
-      "Name": "Az.LoadTesting",
+      "Id": "Az.LoadTes.",
+      "Name": "Az.LoadTes.",
       "Version": "1.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4280,8 +4305,8 @@
       }
     },
     {
-      "Id": "Az.LoadTesting",
-      "Name": "Az.LoadTesting",
+      "Id": "Az.LoadTes.",
+      "Name": "Az.LoadTes.",
       "Version": "1.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4372,8 +4397,8 @@
       }
     },
     {
-      "Id": "Az.MachineLearning",
-      "Name": "Az.MachineLearning",
+      "Id": "Az.Machine.",
+      "Name": "Az.Machine.",
       "Version": "1.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4395,8 +4420,8 @@
       }
     },
     {
-      "Id": "Az.MachineLearning",
-      "Name": "Az.MachineLearning",
+      "Id": "Az.Machine.",
+      "Name": "Az.Machine.",
       "Version": "1.1.4",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4418,8 +4443,8 @@
       }
     },
     {
-      "Id": "Az.MachineLearning",
-      "Name": "Az.MachineLearning",
+      "Id": "Az.Machine.",
+      "Name": "Az.Machine.",
       "Version": "1.1.3",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4441,31 +4466,8 @@
       }
     },
     {
-      "Id": "Az.MachineLearningSer.",
-      "Name": "Az.MachineLearningSer.",
-      "Version": "1.2.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.MachineLearningSer.",
-      "Name": "Az.MachineLearningSer.",
+      "Id": "Az.Machine.",
+      "Name": "Az.Machine.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4487,8 +4489,8 @@
       }
     },
     {
-      "Id": "Az.MachineLearningSer.",
-      "Name": "Az.MachineLearningSer.",
+      "Id": "Az.Machine.",
+      "Name": "Az.Machine.",
       "Version": "1.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4510,8 +4512,31 @@
       }
     },
     {
-      "Id": "Az.Maintenance",
-      "Name": "Az.Maintenance",
+      "Id": "Az.Mainten.",
+      "Name": "Az.Mainten.",
+      "Version": "1.5.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Mainten.",
+      "Name": "Az.Mainten.",
       "Version": "1.5.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4533,8 +4558,8 @@
       }
     },
     {
-      "Id": "Az.Maintenance",
-      "Name": "Az.Maintenance",
+      "Id": "Az.Mainten.",
+      "Name": "Az.Mainten.",
       "Version": "1.4.3",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4556,8 +4581,8 @@
       }
     },
     {
-      "Id": "Az.Maintenance",
-      "Name": "Az.Maintenance",
+      "Id": "Az.Mainten.",
+      "Name": "Az.Mainten.",
       "Version": "1.4.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4579,8 +4604,8 @@
       }
     },
     {
-      "Id": "Az.Maintenance",
-      "Name": "Az.Maintenance",
+      "Id": "Az.Mainten.",
+      "Name": "Az.Mainten.",
       "Version": "1.3.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4602,77 +4627,8 @@
       }
     },
     {
-      "Id": "Az.ManagedServiceIden.",
-      "Name": "Az.ManagedServiceIden.",
-      "Version": "1.3.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ManagedServiceIden.",
-      "Name": "Az.ManagedServiceIden.",
-      "Version": "1.2.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ManagedServiceIden.",
-      "Name": "Az.ManagedServiceIden.",
-      "Version": "1.1.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ManagedServices",
-      "Name": "Az.ManagedServices",
+      "Id": "Az.Managed.",
+      "Name": "Az.Managed.",
       "Version": "3.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4694,8 +4650,8 @@
       }
     },
     {
-      "Id": "Az.ManagedServices",
-      "Name": "Az.ManagedServices",
+      "Id": "Az.Managed.",
+      "Name": "Az.Managed.",
       "Version": "3.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4717,8 +4673,8 @@
       }
     },
     {
-      "Id": "Az.ManagedServices",
-      "Name": "Az.ManagedServices",
+      "Id": "Az.Managed.",
+      "Name": "Az.Managed.",
       "Version": "3.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4740,8 +4696,77 @@
       }
     },
     {
-      "Id": "Az.MarketplaceOrdering",
-      "Name": "Az.MarketplaceOrdering",
+      "Id": "Az.Managed.",
+      "Name": "Az.Managed.",
+      "Version": "1.3.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Managed.",
+      "Name": "Az.Managed.",
+      "Version": "1.2.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Managed.",
+      "Name": "Az.Managed.",
+      "Version": "1.1.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Marketp.",
+      "Name": "Az.Marketp.",
       "Version": "2.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4763,8 +4788,8 @@
       }
     },
     {
-      "Id": "Az.MarketplaceOrdering",
-      "Name": "Az.MarketplaceOrdering",
+      "Id": "Az.Marketp.",
+      "Name": "Az.Marketp.",
       "Version": "2.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4786,8 +4811,8 @@
       }
     },
     {
-      "Id": "Az.MarketplaceOrdering",
-      "Name": "Az.MarketplaceOrdering",
+      "Id": "Az.Marketp.",
+      "Name": "Az.Marketp.",
       "Version": "2.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -4835,6 +4860,29 @@
       "Id": "Az.Media",
       "Name": "Az.Media",
       "Version": "1.1.2",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Migrate",
+      "Name": "Az.Migrate",
+      "Version": "2.7.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -5156,6 +5204,29 @@
     {
       "Id": "Az.Network",
       "Name": "Az.Network",
+      "Version": "7.15.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Network",
+      "Name": "Az.Network",
       "Version": "7.14.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5315,8 +5386,8 @@
       }
     },
     {
-      "Id": "Az.NetworkCloud",
-      "Name": "Az.NetworkCloud",
+      "Id": "Az.Network.",
+      "Name": "Az.Network.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5338,8 +5409,8 @@
       }
     },
     {
-      "Id": "Az.NetworkCloud",
-      "Name": "Az.NetworkCloud",
+      "Id": "Az.Network.",
+      "Name": "Az.Network.",
       "Version": "1.0.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5361,8 +5432,8 @@
       }
     },
     {
-      "Id": "Az.NetworkCloud",
-      "Name": "Az.NetworkCloud",
+      "Id": "Az.Network.",
+      "Name": "Az.Network.",
       "Version": "1.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5430,8 +5501,8 @@
       }
     },
     {
-      "Id": "Az.NotificationHubs",
-      "Name": "Az.NotificationHubs",
+      "Id": "Az.Notific.",
+      "Name": "Az.Notific.",
       "Version": "1.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5453,8 +5524,8 @@
       }
     },
     {
-      "Id": "Az.NotificationHubs",
-      "Name": "Az.NotificationHubs",
+      "Id": "Az.Notific.",
+      "Name": "Az.Notific.",
       "Version": "1.1.3",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5476,8 +5547,8 @@
       }
     },
     {
-      "Id": "Az.NotificationHubs",
-      "Name": "Az.NotificationHubs",
+      "Id": "Az.Notific.",
+      "Name": "Az.Notific.",
       "Version": "1.1.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5499,8 +5570,8 @@
       }
     },
     {
-      "Id": "Az.OperationalInsights",
-      "Name": "Az.OperationalInsights",
+      "Id": "Az.Operati.",
+      "Name": "Az.Operati.",
       "Version": "3.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5522,8 +5593,8 @@
       }
     },
     {
-      "Id": "Az.OperationalInsights",
-      "Name": "Az.OperationalInsights",
+      "Id": "Az.Operati.",
+      "Name": "Az.Operati.",
       "Version": "3.2.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5545,8 +5616,8 @@
       }
     },
     {
-      "Id": "Az.OperationalInsights",
-      "Name": "Az.OperationalInsights",
+      "Id": "Az.Operati.",
+      "Name": "Az.Operati.",
       "Version": "3.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5614,8 +5685,31 @@
       }
     },
     {
-      "Id": "Az.PolicyInsights",
-      "Name": "Az.PolicyInsights",
+      "Id": "Az.PolicyI.",
+      "Name": "Az.PolicyI.",
+      "Version": "1.7.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.PolicyI.",
+      "Name": "Az.PolicyI.",
       "Version": "1.7.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5637,8 +5731,8 @@
       }
     },
     {
-      "Id": "Az.PolicyInsights",
-      "Name": "Az.PolicyInsights",
+      "Id": "Az.PolicyI.",
+      "Name": "Az.PolicyI.",
       "Version": "1.6.5",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5660,8 +5754,8 @@
       }
     },
     {
-      "Id": "Az.PolicyInsights",
-      "Name": "Az.PolicyInsights",
+      "Id": "Az.PolicyI.",
+      "Name": "Az.PolicyI.",
       "Version": "1.6.3",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5683,8 +5777,8 @@
       }
     },
     {
-      "Id": "Az.PostgreSql",
-      "Name": "Az.PostgreSql",
+      "Id": "Az.Postgre.",
+      "Name": "Az.Postgre.",
       "Version": "1.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5706,8 +5800,8 @@
       }
     },
     {
-      "Id": "Az.PostgreSql",
-      "Name": "Az.PostgreSql",
+      "Id": "Az.Postgre.",
+      "Name": "Az.Postgre.",
       "Version": "1.1.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5729,8 +5823,8 @@
       }
     },
     {
-      "Id": "Az.PostgreSql",
-      "Name": "Az.PostgreSql",
+      "Id": "Az.Postgre.",
+      "Name": "Az.Postgre.",
       "Version": "1.1.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5752,8 +5846,8 @@
       }
     },
     {
-      "Id": "Az.PostgreSql",
-      "Name": "Az.PostgreSql",
+      "Id": "Az.Postgre.",
+      "Name": "Az.Postgre.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5775,8 +5869,8 @@
       }
     },
     {
-      "Id": "Az.PowerBIEmbedded",
-      "Name": "Az.PowerBIEmbedded",
+      "Id": "Az.PowerBI.",
+      "Name": "Az.PowerBI.",
       "Version": "2.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5798,8 +5892,8 @@
       }
     },
     {
-      "Id": "Az.PowerBIEmbedded",
-      "Name": "Az.PowerBIEmbedded",
+      "Id": "Az.PowerBI.",
+      "Name": "Az.PowerBI.",
       "Version": "2.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5821,8 +5915,8 @@
       }
     },
     {
-      "Id": "Az.PowerBIEmbedded",
-      "Name": "Az.PowerBIEmbedded",
+      "Id": "Az.PowerBI.",
+      "Name": "Az.PowerBI.",
       "Version": "1.2.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5844,8 +5938,8 @@
       }
     },
     {
-      "Id": "Az.PrivateDns",
-      "Name": "Az.PrivateDns",
+      "Id": "Az.Private.",
+      "Name": "Az.Private.",
       "Version": "1.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5867,8 +5961,8 @@
       }
     },
     {
-      "Id": "Az.PrivateDns",
-      "Name": "Az.PrivateDns",
+      "Id": "Az.Private.",
+      "Name": "Az.Private.",
       "Version": "1.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5890,8 +5984,8 @@
       }
     },
     {
-      "Id": "Az.PrivateDns",
-      "Name": "Az.PrivateDns",
+      "Id": "Az.Private.",
+      "Name": "Az.Private.",
       "Version": "1.0.5",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5913,8 +6007,8 @@
       }
     },
     {
-      "Id": "Az.PrivateDns",
-      "Name": "Az.PrivateDns",
+      "Id": "Az.Private.",
+      "Name": "Az.Private.",
       "Version": "1.0.4",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5936,8 +6030,31 @@
       }
     },
     {
-      "Id": "Az.RecoveryServices",
-      "Name": "Az.RecoveryServices",
+      "Id": "Az.Recover.",
+      "Name": "Az.Recover.",
+      "Version": "7.5.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Recover.",
+      "Name": "Az.Recover.",
       "Version": "7.5.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5959,8 +6076,8 @@
       }
     },
     {
-      "Id": "Az.RecoveryServices",
-      "Name": "Az.RecoveryServices",
+      "Id": "Az.Recover.",
+      "Name": "Az.Recover.",
       "Version": "7.4.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -5982,8 +6099,8 @@
       }
     },
     {
-      "Id": "Az.RecoveryServices",
-      "Name": "Az.RecoveryServices",
+      "Id": "Az.Recover.",
+      "Name": "Az.Recover.",
       "Version": "7.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6005,8 +6122,8 @@
       }
     },
     {
-      "Id": "Az.RecoveryServices",
-      "Name": "Az.RecoveryServices",
+      "Id": "Az.Recover.",
+      "Name": "Az.Recover.",
       "Version": "7.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6028,8 +6145,8 @@
       }
     },
     {
-      "Id": "Az.RecoveryServices",
-      "Name": "Az.RecoveryServices",
+      "Id": "Az.Recover.",
+      "Name": "Az.Recover.",
       "Version": "7.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6051,8 +6168,8 @@
       }
     },
     {
-      "Id": "Az.RecoveryServices",
-      "Name": "Az.RecoveryServices",
+      "Id": "Az.Recover.",
+      "Name": "Az.Recover.",
       "Version": "7.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6074,8 +6191,8 @@
       }
     },
     {
-      "Id": "Az.RecoveryServices",
-      "Name": "Az.RecoveryServices",
+      "Id": "Az.Recover.",
+      "Name": "Az.Recover.",
       "Version": "6.6.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6097,8 +6214,8 @@
       }
     },
     {
-      "Id": "Az.RedisCache",
-      "Name": "Az.RedisCache",
+      "Id": "Az.RedisCa.",
+      "Name": "Az.RedisCa.",
       "Version": "1.11.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6120,8 +6237,8 @@
       }
     },
     {
-      "Id": "Az.RedisCache",
-      "Name": "Az.RedisCache",
+      "Id": "Az.RedisCa.",
+      "Name": "Az.RedisCa.",
       "Version": "1.10.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6143,8 +6260,8 @@
       }
     },
     {
-      "Id": "Az.RedisCache",
-      "Name": "Az.RedisCache",
+      "Id": "Az.RedisCa.",
+      "Name": "Az.RedisCa.",
       "Version": "1.8.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6166,8 +6283,8 @@
       }
     },
     {
-      "Id": "Az.RedisEnterpriseCac.",
-      "Name": "Az.RedisEnterpriseCac.",
+      "Id": "Az.RedisEn.",
+      "Name": "Az.RedisEn.",
       "Version": "1.4.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6189,8 +6306,8 @@
       }
     },
     {
-      "Id": "Az.RedisEnterpriseCac.",
-      "Name": "Az.RedisEnterpriseCac.",
+      "Id": "Az.RedisEn.",
+      "Name": "Az.RedisEn.",
       "Version": "1.2.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6212,8 +6329,8 @@
       }
     },
     {
-      "Id": "Az.RedisEnterpriseCac.",
-      "Name": "Az.RedisEnterpriseCac.",
+      "Id": "Az.RedisEn.",
+      "Name": "Az.RedisEn.",
       "Version": "1.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6304,9 +6421,9 @@
       }
     },
     {
-      "Id": "Az.ResourceGraph",
-      "Name": "Az.ResourceGraph",
-      "Version": "1.1.0",
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
+      "Version": "7.9.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -6327,123 +6444,8 @@
       }
     },
     {
-      "Id": "Az.ResourceGraph",
-      "Name": "Az.ResourceGraph",
-      "Version": "1.0.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ResourceGraph",
-      "Name": "Az.ResourceGraph",
-      "Version": "1.0.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ResourceMover",
-      "Name": "Az.ResourceMover",
-      "Version": "1.3.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ResourceMover",
-      "Name": "Az.ResourceMover",
-      "Version": "1.2.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ResourceMover",
-      "Name": "Az.ResourceMover",
-      "Version": "1.2.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.Resources",
-      "Name": "Az.Resources",
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
       "Version": "7.8.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6465,8 +6467,8 @@
       }
     },
     {
-      "Id": "Az.Resources",
-      "Name": "Az.Resources",
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
       "Version": "7.8.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6488,8 +6490,8 @@
       }
     },
     {
-      "Id": "Az.Resources",
-      "Name": "Az.Resources",
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
       "Version": "7.7.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6511,8 +6513,8 @@
       }
     },
     {
-      "Id": "Az.Resources",
-      "Name": "Az.Resources",
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
       "Version": "7.5.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6534,8 +6536,8 @@
       }
     },
     {
-      "Id": "Az.Resources",
-      "Name": "Az.Resources",
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
       "Version": "7.4.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6557,8 +6559,8 @@
       }
     },
     {
-      "Id": "Az.Resources",
-      "Name": "Az.Resources",
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
       "Version": "7.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6580,9 +6582,216 @@
       }
     },
     {
-      "Id": "Az.Resources",
-      "Name": "Az.Resources",
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
       "Version": "6.11.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
+      "Version": "1.3.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
+      "Version": "1.2.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
+      "Version": "1.2.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
+      "Version": "1.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
+      "Version": "1.0.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Resourc.",
+      "Name": "Az.Resourc.",
+      "Version": "1.0.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Securit.",
+      "Name": "Az.Securit.",
+      "Version": "3.2.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Securit.",
+      "Name": "Az.Securit.",
+      "Version": "3.1.2",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Securit.",
+      "Name": "Az.Securit.",
+      "Version": "3.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -6695,9 +6904,9 @@
       }
     },
     {
-      "Id": "Az.SecurityInsights",
-      "Name": "Az.SecurityInsights",
-      "Version": "3.2.0",
+      "Id": "Az.Service.",
+      "Name": "Az.Service.",
+      "Version": "4.1.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -6718,54 +6927,8 @@
       }
     },
     {
-      "Id": "Az.SecurityInsights",
-      "Name": "Az.SecurityInsights",
-      "Version": "3.1.2",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.SecurityInsights",
-      "Name": "Az.SecurityInsights",
-      "Version": "3.1.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ServiceBus",
-      "Name": "Az.ServiceBus",
+      "Id": "Az.Service.",
+      "Name": "Az.Service.",
       "Version": "4.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6787,8 +6950,8 @@
       }
     },
     {
-      "Id": "Az.ServiceBus",
-      "Name": "Az.ServiceBus",
+      "Id": "Az.Service.",
+      "Name": "Az.Service.",
       "Version": "4.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6810,8 +6973,8 @@
       }
     },
     {
-      "Id": "Az.ServiceBus",
-      "Name": "Az.ServiceBus",
+      "Id": "Az.Service.",
+      "Name": "Az.Service.",
       "Version": "4.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6833,31 +6996,8 @@
       }
     },
     {
-      "Id": "Az.ServiceBus",
-      "Name": "Az.ServiceBus",
-      "Version": "3.0.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.ServiceFabric",
-      "Name": "Az.ServiceFabric",
+      "Id": "Az.Service.",
+      "Name": "Az.Service.",
       "Version": "3.5.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6879,8 +7019,8 @@
       }
     },
     {
-      "Id": "Az.ServiceFabric",
-      "Name": "Az.ServiceFabric",
+      "Id": "Az.Service.",
+      "Name": "Az.Service.",
       "Version": "3.3.4",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6902,8 +7042,8 @@
       }
     },
     {
-      "Id": "Az.ServiceFabric",
-      "Name": "Az.ServiceFabric",
+      "Id": "Az.Service.",
+      "Name": "Az.Service.",
       "Version": "3.3.3",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -6925,9 +7065,32 @@
       }
     },
     {
-      "Id": "Az.ServiceFabric",
-      "Name": "Az.ServiceFabric",
+      "Id": "Az.Service.",
+      "Name": "Az.Service.",
       "Version": "3.2.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Service.",
+      "Name": "Az.Service.",
+      "Version": "3.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -7020,6 +7183,29 @@
       "Id": "Az.SignalR",
       "Name": "Az.SignalR",
       "Version": "2.0.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Sql",
+      "Name": "Az.Sql",
+      "Version": "6.0.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -7155,8 +7341,8 @@
       }
     },
     {
-      "Id": "Az.SqlVirtualMachine",
-      "Name": "Az.SqlVirtualMachine",
+      "Id": "Az.SqlVirt.",
+      "Name": "Az.SqlVirt.",
       "Version": "2.4.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7178,8 +7364,8 @@
       }
     },
     {
-      "Id": "Az.SqlVirtualMachine",
-      "Name": "Az.SqlVirtualMachine",
+      "Id": "Az.SqlVirt.",
+      "Name": "Az.SqlVirt.",
       "Version": "2.3.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7201,8 +7387,8 @@
       }
     },
     {
-      "Id": "Az.SqlVirtualMachine",
-      "Name": "Az.SqlVirtualMachine",
+      "Id": "Az.SqlVirt.",
+      "Name": "Az.SqlVirt.",
       "Version": "2.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7224,9 +7410,78 @@
       }
     },
     {
-      "Id": "Az.SqlVirtualMachine",
-      "Name": "Az.SqlVirtualMachine",
+      "Id": "Az.SqlVirt.",
+      "Name": "Az.SqlVirt.",
       "Version": "2.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.StackHC.",
+      "Name": "Az.StackHC.",
+      "Version": "1.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.StackHC.",
+      "Name": "Az.StackHC.",
+      "Version": "1.0.5",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.StackHC.",
+      "Name": "Az.StackHC.",
+      "Version": "1.0.4",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -7339,55 +7594,9 @@
       }
     },
     {
-      "Id": "Az.StackHCIVM",
-      "Name": "Az.StackHCIVM",
-      "Version": "1.1.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.StackHCIVM",
-      "Name": "Az.StackHCIVM",
-      "Version": "1.0.5",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.StackHCIVM",
-      "Name": "Az.StackHCIVM",
-      "Version": "1.0.4",
+      "Id": "Az.Storage",
+      "Name": "Az.Storage",
+      "Version": "8.2.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -7569,77 +7778,8 @@
       }
     },
     {
-      "Id": "Az.StorageMover",
-      "Name": "Az.StorageMover",
-      "Version": "1.5.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.StorageMover",
-      "Name": "Az.StorageMover",
-      "Version": "1.4.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.StorageMover",
-      "Name": "Az.StorageMover",
-      "Version": "1.0.1",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Az.StorageSync",
-      "Name": "Az.StorageSync",
+      "Id": "Az.Storage.",
+      "Name": "Az.Storage.",
       "Version": "2.4.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7661,8 +7801,8 @@
       }
     },
     {
-      "Id": "Az.StorageSync",
-      "Name": "Az.StorageSync",
+      "Id": "Az.Storage.",
+      "Name": "Az.Storage.",
       "Version": "2.4.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7684,8 +7824,8 @@
       }
     },
     {
-      "Id": "Az.StorageSync",
-      "Name": "Az.StorageSync",
+      "Id": "Az.Storage.",
+      "Name": "Az.Storage.",
       "Version": "2.3.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7707,8 +7847,8 @@
       }
     },
     {
-      "Id": "Az.StorageSync",
-      "Name": "Az.StorageSync",
+      "Id": "Az.Storage.",
+      "Name": "Az.Storage.",
       "Version": "2.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7730,8 +7870,8 @@
       }
     },
     {
-      "Id": "Az.StorageSync",
-      "Name": "Az.StorageSync",
+      "Id": "Az.Storage.",
+      "Name": "Az.Storage.",
       "Version": "2.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7753,8 +7893,77 @@
       }
     },
     {
-      "Id": "Az.StreamAnalytics",
-      "Name": "Az.StreamAnalytics",
+      "Id": "Az.Storage.",
+      "Name": "Az.Storage.",
+      "Version": "1.5.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Storage.",
+      "Name": "Az.Storage.",
+      "Version": "1.4.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Storage.",
+      "Name": "Az.Storage.",
+      "Version": "1.0.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.StreamA.",
+      "Name": "Az.StreamA.",
       "Version": "2.1.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7776,8 +7985,8 @@
       }
     },
     {
-      "Id": "Az.StreamAnalytics",
-      "Name": "Az.StreamAnalytics",
+      "Id": "Az.StreamA.",
+      "Name": "Az.StreamA.",
       "Version": "2.0.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7799,8 +8008,8 @@
       }
     },
     {
-      "Id": "Az.StreamAnalytics",
-      "Name": "Az.StreamAnalytics",
+      "Id": "Az.StreamA.",
+      "Name": "Az.StreamA.",
       "Version": "2.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -7871,6 +8080,29 @@
       "Id": "Az.Support",
       "Name": "Az.Support",
       "Version": "1.0.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Synapse",
+      "Name": "Az.Synapse",
+      "Version": "3.1.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -8006,8 +8238,8 @@
       }
     },
     {
-      "Id": "Az.TrafficManager",
-      "Name": "Az.TrafficManager",
+      "Id": "Az.Traffic.",
+      "Name": "Az.Traffic.",
       "Version": "1.3.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -8029,8 +8261,8 @@
       }
     },
     {
-      "Id": "Az.TrafficManager",
-      "Name": "Az.TrafficManager",
+      "Id": "Az.Traffic.",
+      "Name": "Az.Traffic.",
       "Version": "1.2.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
@@ -8052,9 +8284,32 @@
       }
     },
     {
-      "Id": "Az.TrafficManager",
-      "Name": "Az.TrafficManager",
+      "Id": "Az.Traffic.",
+      "Name": "Az.Traffic.",
       "Version": "1.2.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Websites",
+      "Name": "Az.Websites",
+      "Version": "3.3.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -8147,6 +8402,29 @@
       "Id": "Az.Websites",
       "Name": "Az.Websites",
       "Version": "3.1.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Az.Workloa.",
+      "Name": "Az.Workloa.",
+      "Version": "1.0.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7",
       "InstallationOptions": {
@@ -9503,7 +9781,7 @@
     {
       "Id": "Cisco.Webex",
       "Name": "Webex",
-      "Version": "45.2.0.31800",
+      "Version": "45.3.0.31978",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -9595,7 +9873,7 @@
     {
       "Id": "Docker.DockerDesktop",
       "Name": "Docker Desktop",
-      "Version": "4.38.0",
+      "Version": "4.39.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -9662,6 +9940,52 @@
       }
     },
     {
+      "Id": "Git.Git",
+      "Name": "Git",
+      "Version": "2.48.1",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "GitClean",
+      "Name": "GitClean",
+      "Version": "1.1.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "GitClean",
       "Name": "GitClean",
       "Version": "1.0.0",
@@ -9687,7 +10011,7 @@
     {
       "Id": "GitHub.cli",
       "Name": "GitHub CLI",
-      "Version": "2.67.0",
+      "Version": "2.68.1",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -9733,7 +10057,7 @@
     {
       "Id": "Google.Chrome",
       "Name": "Google Chrome",
-      "Version": "133.0.6943.142",
+      "Version": "134.0.6998.89",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -9825,7 +10149,7 @@
     {
       "Id": "JanDeDobbeleer.OhMyPosh",
       "Name": "Oh My Posh",
-      "Version": "25.0.0",
+      "Version": "25.4.3",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -9873,7 +10197,7 @@
     {
       "Id": "JetBrains.dotTrace",
       "Name": "JetBrains dotTrace",
-      "Version": "2024.3.5",
+      "Version": "2024.3.6",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -9919,7 +10243,7 @@
     {
       "Id": "Logitech.LogiTune",
       "Name": "Logi Tune",
-      "Version": "3.8.125.0",
+      "Version": "3.9.168.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -9940,9 +10264,78 @@
       }
     },
     {
+      "Id": "Microsoft..",
+      "Name": "Microsoft..",
+      "Version": "2.26.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft..",
+      "Name": "Microsoft..",
+      "Version": "2.26.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft..",
+      "Name": "Microsoft..",
+      "Version": "2.25.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": "",
+        "SkipMinorUpdates": false
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "Microsoft.AppInstaller",
       "Name": "App Installer",
-      "Version": "1.25.320.0",
+      "Version": "1.25.340.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -10174,7 +10567,7 @@
     {
       "Id": "Microsoft.DotNet.DesktopRuntime.8",
       "Name": "Microsoft .NET Windows Desktop Runtime 8.0",
-      "Version": "8.0.13",
+      "Version": "8.0.14",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -10266,7 +10659,7 @@
     {
       "Id": "Microsoft.DotNet.SDK.8",
       "Name": "Microsoft .NET SDK 8.0",
-      "Version": "8.0.309",
+      "Version": "8.0.407",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -10289,7 +10682,7 @@
     {
       "Id": "Microsoft.DotNet.SDK.9",
       "Name": "Microsoft .NET SDK 9.0",
-      "Version": "9.0.103",
+      "Version": "9.0.201",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -10335,7 +10728,7 @@
     {
       "Id": "Microsoft.Edge",
       "Name": "Microsoft Edge",
-      "Version": "133.0.3065.92",
+      "Version": "134.0.3124.72",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -10358,1320 +10751,9 @@
       }
     },
     {
-      "Id": "Microsoft.Graph",
-      "Name": "Microsoft.Graph",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Appli.",
-      "Name": "Microsoft.Graph.Appli.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Appli.",
-      "Name": "Microsoft.Graph.Appli.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Authe.",
-      "Name": "Microsoft.Graph.Authe.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Authe.",
-      "Name": "Microsoft.Graph.Authe.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Backu.",
-      "Name": "Microsoft.Graph.Backu.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Backu.",
-      "Name": "Microsoft.Graph.Backu.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Booki.",
-      "Name": "Microsoft.Graph.Booki.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Booki.",
-      "Name": "Microsoft.Graph.Booki.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Calen.",
-      "Name": "Microsoft.Graph.Calen.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Calen.",
-      "Name": "Microsoft.Graph.Calen.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Chang.",
-      "Name": "Microsoft.Graph.Chang.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Chang.",
-      "Name": "Microsoft.Graph.Chang.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Cloud.",
-      "Name": "Microsoft.Graph.Cloud.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Cloud.",
-      "Name": "Microsoft.Graph.Cloud.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Compl.",
-      "Name": "Microsoft.Graph.Compl.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Compl.",
-      "Name": "Microsoft.Graph.Compl.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Cross.",
-      "Name": "Microsoft.Graph.Cross.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Cross.",
-      "Name": "Microsoft.Graph.Cross.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Devic.",
-      "Name": "Microsoft.Graph.Devic.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Devic.",
-      "Name": "Microsoft.Graph.Devic.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Direc.",
-      "Name": "Microsoft.Graph.Direc.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Direc.",
-      "Name": "Microsoft.Graph.Direc.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Educa.",
-      "Name": "Microsoft.Graph.Educa.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Educa.",
-      "Name": "Microsoft.Graph.Educa.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Files",
-      "Name": "Microsoft.Graph.Files",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Files",
-      "Name": "Microsoft.Graph.Files",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Groups",
-      "Name": "Microsoft.Graph.Groups",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Groups",
-      "Name": "Microsoft.Graph.Groups",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Ident.",
-      "Name": "Microsoft.Graph.Ident.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Ident.",
-      "Name": "Microsoft.Graph.Ident.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Mail",
-      "Name": "Microsoft.Graph.Mail",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Mail",
-      "Name": "Microsoft.Graph.Mail",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Notes",
-      "Name": "Microsoft.Graph.Notes",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Notes",
-      "Name": "Microsoft.Graph.Notes",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.People",
-      "Name": "Microsoft.Graph.People",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.People",
-      "Name": "Microsoft.Graph.People",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Perso.",
-      "Name": "Microsoft.Graph.Perso.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Perso.",
-      "Name": "Microsoft.Graph.Perso.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Plann.",
-      "Name": "Microsoft.Graph.Plann.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Plann.",
-      "Name": "Microsoft.Graph.Plann.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Repor.",
-      "Name": "Microsoft.Graph.Repor.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Repor.",
-      "Name": "Microsoft.Graph.Repor.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Schem.",
-      "Name": "Microsoft.Graph.Schem.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Schem.",
-      "Name": "Microsoft.Graph.Schem.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Search",
-      "Name": "Microsoft.Graph.Search",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Search",
-      "Name": "Microsoft.Graph.Search",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Secur.",
-      "Name": "Microsoft.Graph.Secur.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Secur.",
-      "Name": "Microsoft.Graph.Secur.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Sites",
-      "Name": "Microsoft.Graph.Sites",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Sites",
-      "Name": "Microsoft.Graph.Sites",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Teams",
-      "Name": "Microsoft.Graph.Teams",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Teams",
-      "Name": "Microsoft.Graph.Teams",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Users",
-      "Name": "Microsoft.Graph.Users",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Users",
-      "Name": "Microsoft.Graph.Users",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Users.",
-      "Name": "Microsoft.Graph.Users.",
-      "Version": "2.26.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "Microsoft.Graph.Users.",
-      "Name": "Microsoft.Graph.Users.",
-      "Version": "2.25.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
       "Id": "Microsoft.Office",
       "Name": "Microsoft 365 Apps for enterprise",
-      "Version": "16.0.18324.20240",
+      "Version": "16.0.18429.20200",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -11694,7 +10776,7 @@
     {
       "Id": "Microsoft.OneDrive",
       "Name": "Microsoft OneDrive",
-      "Version": "25.020.0202.0001",
+      "Version": "25.031.0217.0003",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -11763,7 +10845,7 @@
     {
       "Id": "Microsoft.PowerToys",
       "Name": "PowerToys",
-      "Version": "0.88.0",
+      "Version": "0.89.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -11786,7 +10868,7 @@
     {
       "Id": "Microsoft.Teams",
       "Name": "Microsoft Teams",
-      "Version": "25044.2205.3455.2339",
+      "Version": "25060.205.3499.6849",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12039,7 +11121,7 @@
     {
       "Id": "Microsoft.VisualStudio.2022.Enterprise",
       "Name": "Visual Studio Enterprise 2022",
-      "Version": "17.13.2",
+      "Version": "17.13.3",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12085,7 +11167,7 @@
     {
       "Id": "Microsoft.VisualStudio.2022.Professional",
       "Name": "Visual Studio Professional 2022",
-      "Version": "17.13.2",
+      "Version": "17.13.3",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12131,7 +11213,7 @@
     {
       "Id": "Microsoft.VisualStudioCode",
       "Name": "Microsoft Visual Studio Code",
-      "Version": "1.97.2",
+      "Version": "1.98.2",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12154,7 +11236,7 @@
     {
       "Id": "Microsoft.VisualStudioCode.Insiders",
       "Name": "Microsoft Visual Studio Code Insiders",
-      "Version": "1.98.0",
+      "Version": "1.99.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12177,7 +11259,7 @@
     {
       "Id": "Microsoft.WSL",
       "Name": "Windows Subsystem for Linux",
-      "Version": "2.4.11.0",
+      "Version": "2.4.12.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12223,7 +11305,7 @@
     {
       "Id": "Microsoft.WinGet.Client",
       "Name": "Microsoft.WinGet.Client",
-      "Version": "1.9.25190",
+      "Version": "1.10.340",
       "Source": "PSGallery",
       "ManagerName": "PowerShell",
       "InstallationOptions": {
@@ -12338,7 +11420,7 @@
     {
       "Id": "Mozilla.Firefox",
       "Name": "Mozilla Firefox",
-      "Version": "135.0.1",
+      "Version": "136.0.1",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12407,7 +11489,7 @@
     {
       "Id": "Proton.ProtonVPN",
       "Name": "Proton VPN",
-      "Version": "3.5.2",
+      "Version": "3.5.3",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12476,7 +11558,7 @@
     {
       "Id": "RingCentral.RingCentral",
       "Name": "RingCentral",
-      "Version": "25.1.1610",
+      "Version": "25.1.2511",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12499,7 +11581,7 @@
     {
       "Id": "SlackTechnologies.Slack",
       "Name": "Slack",
-      "Version": "4.42.120",
+      "Version": "4.43.43",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -12543,11 +11625,11 @@
       }
     },
     {
-      "Id": "Terminal-Icons",
-      "Name": "Terminal Icons",
+      "Id": "Terminal-I.",
+      "Name": "Terminal I.",
       "Version": "0.11.0",
       "Source": "PSGallery",
-      "ManagerName": "PowerShell",
+      "ManagerName": "PowerShell7",
       "InstallationOptions": {
         "SkipHashCheck": false,
         "InteractiveInstallation": false,
@@ -12570,7 +11652,7 @@
       "Name": "Terminal Icons",
       "Version": "0.11.0",
       "Source": "PSGallery",
-      "ManagerName": "PowerShell7",
+      "ManagerName": "PowerShell",
       "InstallationOptions": {
         "SkipHashCheck": false,
         "InteractiveInstallation": false,
@@ -12637,30 +11719,7 @@
     {
       "Id": "azurite",
       "Name": "Azurite",
-      "Version": "3.33.0",
-      "Source": "npm",
-      "ManagerName": "Npm",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": "",
-        "SkipMinorUpdates": false
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "azurite",
-      "Name": "Azurite",
-      "Version": "3.32.0",
+      "Version": "3.34.0",
       "Source": "npm",
       "ManagerName": "Npm",
       "InstallationOptions": {
@@ -12752,7 +11811,7 @@
     {
       "Id": "dotnet-ef",
       "Name": "Dotnet Ef",
-      "Version": "9.0.2",
+      "Version": "9.0.3",
       "Source": "nuget.org",
       "ManagerName": ".NET Tool",
       "InstallationOptions": {
@@ -12844,7 +11903,7 @@
     {
       "Id": "microsoft.openapi.kiota",
       "Name": "Microsoft.openapi.kiota",
-      "Version": "1.23.0",
+      "Version": "1.24.1",
       "Source": "nuget.org",
       "ManagerName": ".NET Tool",
       "InstallationOptions": {
@@ -13005,7 +12064,7 @@
     {
       "Id": "uno.check",
       "Name": "Uno.check",
-      "Version": "1.29.4",
+      "Version": "1.30.1",
       "Source": "nuget.org",
       "ManagerName": ".NET Tool",
       "InstallationOptions": {
@@ -13053,15 +12112,9 @@
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X64\\Git_is1",
-      "Name": "Git",
-      "Version": "2.47.0.2",
-      "Source": "Local PC"
-    },
-    {
       "Id": "ARP\\Machine\\X64\\Intel(R) Graphics Software \u0026 Drivers",
       "Name": "Intel(R) Graphics Software \u0026 Drivers",
-      "Version": "1.0.1013.3",
+      "Version": "1.0.1013.4",
       "Source": "Local PC"
     },
     {
@@ -13073,7 +12126,7 @@
     {
       "Id": "ARP\\Machine\\X64\\MozillaMaintenanceService",
       "Name": "Mozilla Maintenance Service",
-      "Version": "135.0.1",
+      "Version": "136.0.1",
       "Source": "Local PC"
     },
     {
@@ -13083,9 +12136,21 @@
       "Source": "Local PC"
     },
     {
+      "Id": "ARP\\Machine\\X64\\{1DE33142-3D20-42DE-80AE-75F44E99028D}",
+      "Name": "Intel\u00AE Graphics Software",
+      "Version": "25.6.1152.1",
+      "Source": "Local PC"
+    },
+    {
       "Id": "ARP\\Machine\\X64\\{3BA7CAA9-97BA-4528-B7E1-B640910BB149}",
       "Name": "Microsoft Azure PowerShell - April 2018",
       "Version": "5.7.0.18831",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X64\\{5955FA1F-F977-433A-9B54-44B11E8F8F02}",
+      "Name": "Microsoft .NET SDK 9.0.201 (x64) from Visual Studio",
+      "Version": "9.2.125.11329",
       "Source": "Local PC"
     },
     {
@@ -13097,7 +12162,7 @@
     {
       "Id": "ARP\\Machine\\X64\\{6F320B93-EE3C-4826-85E0-ADF79F8D4C61}",
       "Name": "Microsoft Visual Studio Installer",
-      "Version": "3.14.14.24449",
+      "Version": "3.14.1041.44784",
       "Source": "Local PC"
     },
     {
@@ -13116,12 +12181,6 @@
       "Id": "ARP\\Machine\\X64\\{89E7E64C-A30C-4D24-9D12-B354CA2335DE}",
       "Name": "Intel(R) Computing Improvement Program",
       "Version": "2.4.10888",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "ARP\\Machine\\X64\\{8D1F57D8-49F8-489C-8B2B-01E42A356407}",
-      "Name": "Intel\u00AE Graphics Software",
-      "Version": "25.2.1055.2",
       "Source": "Local PC"
     },
     {
@@ -13145,7 +12204,7 @@
     {
       "Id": "ARP\\Machine\\X64\\{A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}",
       "Name": "Microsoft Teams Meeting Add-in for Microsoft Office",
-      "Version": "1.24.31301",
+      "Version": "1.25.04401",
       "Source": "Local PC"
     },
     {
@@ -13215,9 +12274,9 @@
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X86\\{00001100-0230-1033-84C8-B8D95FA3C8C3}",
+      "Id": "ARP\\Machine\\X86\\{00000120-0230-1033-84C8-B8D95FA3C8C3}",
       "Name": "Intel(R) Wireless Bluetooth(R)",
-      "Version": "23.100.1.1",
+      "Version": "23.120.0.4",
       "Source": "Local PC"
     },
     {
@@ -13242,12 +12301,6 @@
       "Id": "ARP\\Machine\\X86\\{342873C0-1C08-4A99-82B6-50D1D2043E5A}",
       "Name": "Windows SDK AddOn",
       "Version": "10.1.0.0",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "ARP\\Machine\\X86\\{3B8DBB28-8A56-48D0-A94F-69FAFF284749}",
-      "Name": "Microsoft Intune Management Extension",
-      "Version": "1.86.105.0",
       "Source": "Local PC"
     },
     {
@@ -13295,13 +12348,19 @@
     {
       "Id": "ARP\\Machine\\X86\\{889610CC-4337-4BDB-AC3B-4F21806C0BDE}_is1",
       "Name": "UniGetUI",
-      "Version": "3.1.7",
+      "Version": "3.1.8",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\Machine\\X86\\{89D08BC3-F9FF-480C-B172-AA1E3643CE60}",
       "Name": "GoTo Opener",
       "Version": "1.0.568",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X86\\{B4355251-98C4-4D96-BF78-FBEEFE88D0AC}",
+      "Name": "Microsoft Intune Management Extension",
+      "Version": "1.87.101.0",
       "Source": "Local PC"
     },
     {
@@ -13343,7 +12402,7 @@
     {
       "Id": "ARP\\User\\X64\\JetBrains Toolbox (AndroidStudio) efd8f370-7e58-4501-9cff-23e2f61cf1ca",
       "Name": "Android Studio",
-      "Version": "Ladybug Feature Drop 2024.2.2 Patch 2",
+      "Version": "Meerkat 2024.3.1",
       "Source": "Local PC"
     },
     {
@@ -13355,7 +12414,7 @@
     {
       "Id": "ARP\\User\\X64\\JetBrains Toolbox (ReSharper-U) 93bb6f13-29f9-4493-9a3d-44a9f73308f0",
       "Name": "ReSharper Tools",
-      "Version": "2024.3.5",
+      "Version": "2024.3.6",
       "Source": "Local PC"
     },
     {
@@ -13367,7 +12426,7 @@
     {
       "Id": "ARP\\User\\X64\\JetBrains Toolbox (Rider) d3a23b07-252c-4434-b6ff-96434b45a198",
       "Name": "Rider",
-      "Version": "2025.1 EAP6",
+      "Version": "2025.1 EAP8",
       "Source": "Local PC"
     },
     {
@@ -13390,44 +12449,44 @@
     },
     {
       "Id": "ARP\\User\\X64\\{2ce7ce9a-90a4-54c2-afa3-9ee8b21b01f1}",
-      "Name": "JetBrains dotCover 2024.3.5",
-      "Version": "2024.3.5",
+      "Name": "JetBrains dotCover 2024.3.6",
+      "Version": "2024.3.6",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\User\\X64\\{89a5f1ef-0459-5a58-8a80-84d9e6f69b07}",
-      "Name": "JetBrains dotPeek 2024.3.5",
-      "Version": "2024.3.5",
+      "Name": "JetBrains dotPeek 2024.3.6",
+      "Version": "2024.3.6",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\User\\X64\\{d2e7134c-5400-5940-a487-0f48d0817667}",
-      "Name": "JetBrains dotMemory 2024.3.5",
-      "Version": "2024.3.5",
+      "Name": "JetBrains dotMemory 2024.3.6",
+      "Version": "2024.3.6",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\User\\X64\\{e0ccb798-546e-5b78-aebc-1c5f854f930e}",
       "Name": "JetBrains ReSharper in Visual Studio Professional 2022 Preview",
-      "Version": "2024.3.5",
+      "Version": "2024.3.6",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\User\\X64\\{ee08fe42-9355-520d-9635-d7e40c138779}",
       "Name": "JetBrains ReSharper in Visual Studio Professional 2022",
-      "Version": "2024.3.5",
+      "Version": "2024.3.6",
       "Source": "Local PC"
     },
     {
-      "Id": "MSIX\\5319275A.WhatsAppDesktop_2.2508.5.0_x64__cv1g1gvanyjgm",
+      "Id": "MSIX\\5319275A.WhatsAppDesktop_2.2509.4.0_x64__cv1g1gvanyjgm",
       "Name": "WhatsApp",
-      "Version": "2.2508.5.0",
+      "Version": "2.2509.4.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\9932MartCliment.WingetUIWidgets_0.9.0.0_x64__g91dtg5srk15g",
+      "Id": "MSIX\\9932MartCliment.WingetUIWidgets_0.9.1.0_x64__g91dtg5srk15g",
       "Name": "Widgets for UniGetUI",
-      "Version": "0.9.0.0",
+      "Version": "0.9.1.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13449,9 +12508,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Clipchamp.Clipchamp_4.0.10720.0_x64__yxz26nhyzhsrt",
+      "Id": "MSIX\\Clipchamp.Clipchamp_4.0.10820.0_x64__yxz26nhyzhsrt",
       "Name": "Microsoft Clipchamp",
-      "Version": "4.0.10720.0",
+      "Version": "4.0.10820.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13479,9 +12538,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.AVCEncoderVideoExtension_1.1.9.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.AVCEncoderVideoExtension_1.1.13.0_x64__8wekyb3d8bbwe",
       "Name": "AVC Encoder Video Extension",
-      "Version": "1.1.9.0",
+      "Version": "1.1.13.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13533,9 +12592,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.HEVCVideoExtension_2.2.29.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.HEVCVideoExtension_2.2.33.0_x64__8wekyb3d8bbwe",
       "Name": "HEVC Video Extensions from Device Manufacturer",
-      "Version": "2.2.29.0",
+      "Version": "2.2.33.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13551,9 +12610,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.MicrosoftOfficeHub_18.2502.1252.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.MicrosoftOfficeHub_18.2503.1113.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft 365 Copilot",
-      "Version": "18.2502.1252.0",
+      "Version": "18.2503.1113.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13593,9 +12652,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.OneDriveSync_25020.202.1.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.OfficePushNotificationUtility_16.0.18429.20200_neutral__8wekyb3d8bbwe",
+      "Name": "OfficePushNotificationsUtility",
+      "Version": "16.0.18429.20200",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.OneDriveSync_25031.217.3.0_neutral__8wekyb3d8bbwe",
       "Name": "OneDrive",
-      "Version": "25020.202.1.0",
+      "Version": "25031.217.3.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13605,9 +12670,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Paint_11.2411.471.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Paint_11.2412.311.0_x64__8wekyb3d8bbwe",
       "Name": "Paint",
-      "Version": "11.2411.471.0",
+      "Version": "11.2412.311.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13623,15 +12688,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.FileLocksmithContextMenu_0.88.0.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerToys.FileLocksmithContextMenu_0.89.0.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys FileLocksmith Context Menu",
-      "Version": "0.88.0.0",
+      "Version": "0.89.0.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.PowerRenameContextMenu_0.88.0.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerToys.PowerRenameContextMenu_0.89.0.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys PowerRename Context Menu",
-      "Version": "0.88.0.0",
+      "Version": "0.89.0.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13641,9 +12706,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.ScreenSketch_11.2409.25.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.ScreenSketch_11.2501.7.0_x64__8wekyb3d8bbwe",
       "Name": "Snipping Tool",
-      "Version": "11.2409.25.0",
+      "Version": "11.2501.7.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13857,27 +12922,27 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000.373.1641.0_x64__8wekyb3d8bbwe",
-      "Name": "WindowsAppRuntime.1.6",
-      "Version": "6000.373.1641.0",
-      "Source": "Microsoft Store"
-    },
-    {
       "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000.401.2352.0_x64__8wekyb3d8bbwe",
       "Name": "WindowsAppRuntime.1.6",
       "Version": "6000.401.2352.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000.401.2352.0_x86__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000.424.1611.0_x64__8wekyb3d8bbwe",
       "Name": "WindowsAppRuntime.1.6",
-      "Version": "6000.401.2352.0",
+      "Version": "6000.424.1611.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsCalculator_11.2411.1.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.WindowsAppRuntime.1.6_6000.424.1611.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.6",
+      "Version": "6000.424.1611.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MSIX\\Microsoft.WindowsCalculator_11.2501.1.0_x64__8wekyb3d8bbwe",
       "Name": "Windows Calculator",
-      "Version": "11.2411.1.0",
+      "Version": "11.2501.1.0",
       "Source": "Microsoft Store"
     },
     {
@@ -13911,15 +12976,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsStore_22501.1401.7.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.WindowsStore_22502.1401.4.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft Store",
-      "Version": "22501.1401.7.0",
+      "Version": "22502.1401.4.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Winget.Source_2025.301.1402.43_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Winget.Source_2025.318.653.47_neutral__8wekyb3d8bbwe",
       "Name": "Windows Package Manager Source (winget) V2",
-      "Version": "2025.301.1402.43",
+      "Version": "2025.318.653.47",
       "Source": "Microsoft Store"
     },
     {
@@ -13953,15 +13018,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.YourPhone_1.25012.100.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.YourPhone_1.25021.67.0_x64__8wekyb3d8bbwe",
       "Name": "Phone Link",
-      "Version": "1.25012.100.0",
+      "Version": "1.25021.67.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.ZuneMusic_11.2412.6.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.ZuneMusic_11.2501.9.0_x64__8wekyb3d8bbwe",
       "Name": "Windows Media Player",
-      "Version": "11.2412.6.0",
+      "Version": "11.2501.9.0",
       "Source": "Microsoft Store"
     },
     {
@@ -14001,9 +13066,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\MicrosoftWindows.CrossDevice_1.25012.50.0_x64__cw5n1h2txyewy",
+      "Id": "MSIX\\MicrosoftWindows.CrossDevice_1.25021.28.0_x64__cw5n1h2txyewy",
       "Name": "Cross Device Experience Host",
-      "Version": "1.25012.50.0",
+      "Version": "1.25021.28.0",
       "Source": "Microsoft Store"
     },
     {
