@@ -11,7 +11,7 @@
     {
       "Id": "AgileBits.1Password",
       "Name": "1Password",
-      "Version": "8.11.4.27",
+      "Version": "8.11.8.40",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -1698,6 +1698,13 @@
     {
       "Id": "Az.Monitor",
       "Name": "Az.Monitor",
+      "Version": "6.0.3",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7"
+    },
+    {
+      "Id": "Az.Monitor",
+      "Name": "Az.Monitor",
       "Version": "6.0.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7"
@@ -1747,6 +1754,13 @@
     {
       "Id": "Az.Network",
       "Name": "Az.Network",
+      "Version": "7.19.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7"
+    },
+    {
+      "Id": "Az.Network",
+      "Name": "Az.Network",
       "Version": "7.17.0",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7"
@@ -1769,6 +1783,13 @@
       "Id": "Az.Network.",
       "Name": "Az.Network.",
       "Version": "1.0.1",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7"
+    },
+    {
+      "Id": "Az.Nginx",
+      "Name": "Az.Nginx",
+      "Version": "1.2.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7"
     },
@@ -1993,6 +2014,13 @@
       "Id": "Az.RedisEn.",
       "Name": "Az.RedisEn.",
       "Version": "1.2.0",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7"
+    },
+    {
+      "Id": "Az.Relay",
+      "Name": "Az.Relay",
+      "Version": "2.1.2",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7"
     },
@@ -2326,13 +2354,6 @@
       "ManagerName": "PowerShell7"
     },
     {
-      "Id": "Az.Sql",
-      "Name": "Az.Sql",
-      "Version": "4.10.0",
-      "Source": "PSGallery",
-      "ManagerName": "PowerShell7"
-    },
-    {
       "Id": "Az.SqlVirt.",
       "Name": "Az.SqlVirt.",
       "Version": "2.4.0",
@@ -2378,6 +2399,13 @@
       "Id": "Az.StackHC.",
       "Name": "Az.StackHC.",
       "Version": "1.0.4",
+      "Source": "PSGallery",
+      "ManagerName": "PowerShell7"
+    },
+    {
+      "Id": "Az.StackHCI",
+      "Name": "Az.StackHCI",
+      "Version": "2.6.1",
       "Source": "PSGallery",
       "ManagerName": "PowerShell7"
     },
@@ -3186,14 +3214,14 @@
     {
       "Id": "Docker.DockerDesktop",
       "Name": "Docker Desktop",
-      "Version": "4.44.0",
+      "Version": "4.44.3",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Elgato.StreamDeck",
       "Name": "Elgato Stream Deck",
-      "Version": "6.9.1.21711",
+      "Version": "7.0.0.22005",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3207,7 +3235,7 @@
     {
       "Id": "Git.Git",
       "Name": "Git",
-      "Version": "2.50.1",
+      "Version": "2.51.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3228,21 +3256,21 @@
     {
       "Id": "GitHub.cli",
       "Name": "GitHub CLI",
-      "Version": "2.76.2",
+      "Version": "2.78.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "GoTo.GoTo",
       "Name": "GoTo",
-      "Version": "4.15.0",
+      "Version": "4.16.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Google.Chrome",
       "Name": "Google Chrome",
-      "Version": "139.0.7258.67",
+      "Version": "139.0.7258.155",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3256,7 +3284,7 @@
     {
       "Id": "Greenshot.Greenshot",
       "Name": "Greenshot",
-      "Version": "1.3.296",
+      "Version": "1.3.300",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3277,21 +3305,21 @@
     {
       "Id": "JanDeDobbeleer.OhMyPosh",
       "Name": "Oh My Posh",
-      "Version": "26.19.0",
+      "Version": "26.19.2",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "JetBrains.Toolbox",
       "Name": "JetBrains Toolbox",
-      "Version": "2.8.0.51430",
+      "Version": "2.8.1.52155",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "JetBrains.dotTrace",
       "Name": "JetBrains dotTrace",
-      "Version": "2025.1.5",
+      "Version": "2025.2.0.1",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3305,7 +3333,7 @@
     {
       "Id": "Logitech.LogiTune",
       "Name": "Logi Tune",
-      "Version": "3.10.129.0",
+      "Version": "3.11.89.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3347,7 +3375,7 @@
     {
       "Id": "Microsoft.Azure.StorageExplorer",
       "Name": "Microsoft Azure Storage Explorer",
-      "Version": "1.39.0",
+      "Version": "1.39.1",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3355,13 +3383,6 @@
       "Id": "Microsoft.AzureCLI",
       "Name": "Microsoft Azure CLI",
       "Version": "2.76.0",
-      "Source": "winget",
-      "ManagerName": "Winget"
-    },
-    {
-      "Id": "Microsoft.AzureDataStudio",
-      "Name": "Azure Data Studio",
-      "Version": "1.52.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3474,14 +3495,14 @@
     {
       "Id": "Microsoft.DotNet.UninstallTool",
       "Name": "Microsoft .NET Core SDK Uninstall Tool (x86)",
-      "Version": "4.112.728",
+      "Version": "\u003C 1.7.618124",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Microsoft.Edge",
       "Name": "Microsoft Edge",
-      "Version": "139.0.3405.86",
+      "Version": "139.0.3405.125",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -3504,7 +3525,7 @@
     {
       "Id": "Microsoft.Office",
       "Name": "Microsoft 365 Apps for enterprise",
-      "Version": "16.0.18827.20202",
+      "Version": "16.0.18925.20216",
       "Source": "winget",
       "ManagerName": "Winget",
       "Updates": {
@@ -3515,7 +3536,7 @@
     {
       "Id": "Microsoft.OneDrive",
       "Name": "Microsoft OneDrive",
-      "Version": "25.137.0715.0001",
+      "Version": "25.140.0720.0001",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3536,14 +3557,14 @@
     {
       "Id": "Microsoft.PowerToys",
       "Name": "PowerToys",
-      "Version": "0.92.1",
+      "Version": "0.93.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Microsoft.Teams",
       "Name": "Microsoft Teams",
-      "Version": "25198.1109.3837.4725",
+      "Version": "25212.2204.3869.2204",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3620,35 +3641,35 @@
     {
       "Id": "Microsoft.VisualStudio.2022.Enterprise",
       "Name": "Visual Studio Enterprise 2022",
-      "Version": "17.14.11",
+      "Version": "17.14.13",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Microsoft.VisualStudio.2022.Enterprise.Preview",
       "Name": "Visual Studio Enterprise 2022 Preview",
-      "Version": "17.14.10 Preview 1.0",
+      "Version": "17.14.12 Preview 1.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Microsoft.VisualStudio.2022.Professional",
       "Name": "Visual Studio Professional 2022",
-      "Version": "17.14.11",
+      "Version": "17.14.13",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Microsoft.VisualStudio.2022.Professional.Preview",
       "Name": "Visual Studio Professional 2022 Preview",
-      "Version": "17.14.10 Preview 1.0",
+      "Version": "17.14.12 Preview 1.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "Microsoft.VisualStudioCode",
       "Name": "Microsoft Visual Studio Code",
-      "Version": "1.103.0",
+      "Version": "1.103.2",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3683,7 +3704,7 @@
     {
       "Id": "Microsoft.WindowsTerminal",
       "Name": "Windows Terminal",
-      "Version": "1.22.12111.0",
+      "Version": "1.23.12371.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3704,7 +3725,7 @@
     {
       "Id": "Mozilla.Firefox",
       "Name": "Mozilla Firefox (en-US)",
-      "Version": "141.0.3",
+      "Version": "142.0.1",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3718,7 +3739,7 @@
     {
       "Id": "OpenWhisperSystems.Signal",
       "Name": "Signal",
-      "Version": "7.65.0",
+      "Version": "7.68.0",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3739,7 +3760,7 @@
     {
       "Id": "Proton.ProtonVPN",
       "Name": "Proton VPN",
-      "Version": "4.2.1",
+      "Version": "4.2.2",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3764,7 +3785,7 @@
     {
       "Id": "RingCentral.RingCentral",
       "Name": "RingCentral",
-      "Version": "25.3.1012",
+      "Version": "25.3.2015",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3778,7 +3799,7 @@
     {
       "Id": "SlackTechnologies.Slack",
       "Name": "Slack",
-      "Version": "4.45.64",
+      "Version": "4.45.69",
       "Source": "winget",
       "ManagerName": "Winget"
     },
@@ -3820,14 +3841,14 @@
     {
       "Id": "Zoom.Zoom",
       "Name": "Zoom Workplace",
-      "Version": "6.5.11873",
+      "Version": "6.5.13227",
       "Source": "winget",
       "ManagerName": "Winget"
     },
     {
       "Id": "aspire.cli",
       "Name": "Aspire.cli",
-      "Version": "9.4.0",
+      "Version": "9.4.1",
       "Source": "nuget.org",
       "ManagerName": ".NET Tool"
     },
@@ -3855,7 +3876,7 @@
     {
       "Id": "dart-sdk",
       "Name": "Dart Sdk",
-      "Version": "3.8.3",
+      "Version": "3.9.2",
       "Source": "community",
       "ManagerName": "Chocolatey"
     },
@@ -3944,7 +3965,7 @@
       "ManagerName": ".NET Tool"
     }
   ],
-  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC)or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
   "incompatible_packages": [
     {
       "Id": "ARP\\Machine\\X64\\31A90805BE9FA4C1A57E8E98EC4F0E4D2B56C790",
@@ -3979,7 +4000,7 @@
     {
       "Id": "ARP\\Machine\\X64\\MozillaMaintenanceService",
       "Name": "Mozilla Maintenance Service",
-      "Version": "141.0.3",
+      "Version": "142.0.1",
       "Source": "Local PC"
     },
     {
@@ -3995,27 +4016,21 @@
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X64\\{118C0ABF-1A67-42FC-AE66-7453FA3C86A2}",
-      "Name": "Microsoft .NET SDK 9.0.302 (x64) from Visual Studio",
-      "Version": "9.3.225.31907",
-      "Source": "Local PC"
-    },
-    {
       "Id": "ARP\\Machine\\X64\\{19E9213D-232D-4CD8-B6D5-724B9E53D1DC}",
       "Name": "Intel\u00AE Graphics Software",
       "Version": "25.14.1302.1",
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X64\\{396EC0A8-7E55-4BA7-8B8D-690A8C340AB8}",
-      "Name": "Intel\u00AE Graphics Software",
-      "Version": "25.26.1602.2",
-      "Source": "Local PC"
-    },
-    {
       "Id": "ARP\\Machine\\X64\\{3BA7CAA9-97BA-4528-B7E1-B640910BB149}",
       "Name": "Microsoft Azure PowerShell - April 2018",
       "Version": "5.7.0.18831",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X64\\{4EBF49B5-F39D-4A95-8FA8-D7D0C9F5913F}",
+      "Name": "Intel\u00AE Graphics Software",
+      "Version": "25.30.1705.2",
       "Source": "Local PC"
     },
     {
@@ -4061,12 +4076,6 @@
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X64\\{98F4CE5B-D498-4EC9-B025-2E509C4EBECC}",
-      "Name": "oneAPI Level Zero",
-      "Version": "1.21.10",
-      "Source": "Local PC"
-    },
-    {
       "Id": "ARP\\Machine\\X64\\{9E773F74-23FE-41B9-8E60-B2C16B2F7B94}",
       "Name": "Dell Core Services",
       "Version": "1.10.39.0",
@@ -4086,8 +4095,8 @@
     },
     {
       "Id": "ARP\\Machine\\X64\\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver",
-      "Name": "NVIDIA Graphics Driver 566.41",
-      "Version": "566.41",
+      "Name": "NVIDIA Graphics Driver 576.83",
+      "Version": "576.83",
       "Source": "Local PC"
     },
     {
@@ -4118,6 +4127,12 @@
       "Id": "ARP\\Machine\\X64\\{F48F4FA4-3FAA-4A13-B9E2-F402641FCBB2}",
       "Name": "Slack Deployment Tool",
       "Version": "4.27.154",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "ARP\\Machine\\X64\\{FD1C864D-4BA3-4321-BDFC-66F50CF6B6BF}",
+      "Name": "oneAPI Level Zero",
+      "Version": "1.23.1",
       "Source": "Local PC"
     },
     {
@@ -4175,6 +4190,12 @@
       "Source": "Local PC"
     },
     {
+      "Id": "ARP\\Machine\\X86\\{2c1d2274-0b9c-437b-8937-60ed881f6678}",
+      "Name": "Windows Software Development Kit - Windows 10.0.26100.4654",
+      "Version": "10.1.26100.4654",
+      "Source": "Local PC"
+    },
+    {
       "Id": "ARP\\Machine\\X86\\{342873C0-1C08-4A99-82B6-50D1D2043E5A}",
       "Name": "Windows SDK AddOn",
       "Version": "10.1.0.0",
@@ -4205,6 +4226,12 @@
       "Source": "Local PC"
     },
     {
+      "Id": "ARP\\Machine\\X86\\{6FCCA0B6-4618-42D1-A0A6-33BFD7BE0914}",
+      "Name": "Microsoft Intune Management Extension",
+      "Version": "1.93.155.0",
+      "Source": "Local PC"
+    },
+    {
       "Id": "ARP\\Machine\\X86\\{71684ad3-afc2-4a65-9d45-92ef58510f18}",
       "Name": "Windows Software Development Kit - Windows 10.0.22621.3233",
       "Version": "10.1.22621.3233",
@@ -4213,19 +4240,13 @@
     {
       "Id": "ARP\\Machine\\X86\\{889610CC-4337-4BDB-AC3B-4F21806C0BDE}_is1",
       "Name": "UniGetUI",
-      "Version": "3.3.1",
+      "Version": "3.3.2",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\Machine\\X86\\{89D08BC3-F9FF-480C-B172-AA1E3643CE60}",
       "Name": "GoTo Opener",
       "Version": "1.0.568",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "ARP\\Machine\\X86\\{8FA1C545-8A16-4C02-9892-8D6D7A4E620F}",
-      "Name": "Microsoft Intune Management Extension",
-      "Version": "1.93.102.0",
       "Source": "Local PC"
     },
     {
@@ -4247,21 +4268,9 @@
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\Machine\\X86\\{EEF0814F-F67C-49F6-A705-230209F14DF9}",
-      "Name": "Epson Software Updater",
-      "Version": "4.6.9",
-      "Source": "Local PC"
-    },
-    {
       "Id": "ARP\\Machine\\X86\\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}",
       "Name": "Realtek Audio Driver",
       "Version": "6.0.9780.1",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "ARP\\Machine\\X86\\{a174f9c3-3990-44e0-9904-1c5218139b20}",
-      "Name": "Windows Software Development Kit - Windows 10.0.26100.4188",
-      "Version": "10.1.26100.4188",
       "Source": "Local PC"
     },
     {
@@ -4291,7 +4300,7 @@
     {
       "Id": "ARP\\User\\X64\\JetBrains Toolbox (AndroidStudio) efd8f370-7e58-4501-9cff-23e2f61cf1ca",
       "Name": "Android Studio",
-      "Version": "Narwhal Feature Drop 2025.1.2",
+      "Version": "Narwhal Feature Drop 2025.1.2 Patch 1",
       "Source": "Local PC"
     },
     {
@@ -4303,25 +4312,25 @@
     {
       "Id": "ARP\\User\\X64\\JetBrains Toolbox (ReSharper-U) 93bb6f13-29f9-4493-9a3d-44a9f73308f0",
       "Name": "ReSharper Tools",
-      "Version": "2025.1.5",
+      "Version": "2025.2.0.1",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\User\\X64\\JetBrains Toolbox (Rider) 26294a8c-0376-4705-bb98-05645fb6d68e",
       "Name": "Rider",
-      "Version": "2025.1.5",
+      "Version": "2025.2.0.1",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\User\\X64\\JetBrains Toolbox (Rider) d3a23b07-252c-4434-b6ff-96434b45a198",
       "Name": "Rider",
-      "Version": "2025.2 Release Candidate",
+      "Version": "2025.2.0.1",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\User\\X64\\JetBrains Toolbox (datagrip) 57b4fdcb-d49e-4cb0-9866-c2dd93e6e320",
       "Name": "DataGrip",
-      "Version": "2025.2.1",
+      "Version": "2025.2.2",
       "Source": "Local PC"
     },
     {
@@ -4337,33 +4346,33 @@
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\User\\X64\\{4056121e-0f3e-59ac-bf20-2058027a393f}",
-      "Name": "JetBrains dotCover 2025.1.5",
-      "Version": "2025.1.5",
+      "Id": "ARP\\User\\X64\\{092e29a1-eec3-5d3c-8efb-0395f3f2e2e5}",
+      "Name": "JetBrains dotMemory 2025.2.0.1",
+      "Version": "2025.2.0.1",
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\User\\X64\\{6daf1ff4-aaaf-531a-a785-caf77fcb9d4d}",
-      "Name": "JetBrains dotPeek 2025.1.5",
-      "Version": "2025.1.5",
+      "Id": "ARP\\User\\X64\\{370c7c72-ffcd-5492-b310-452eafd428b5}",
+      "Name": "JetBrains dotCover 2025.2.0.1",
+      "Version": "2025.2.0.1",
       "Source": "Local PC"
     },
     {
-      "Id": "ARP\\User\\X64\\{9edcf1cd-ed5c-5960-bb6e-9267e67d8b36}",
-      "Name": "JetBrains dotMemory 2025.1.5",
-      "Version": "2025.1.5",
+      "Id": "ARP\\User\\X64\\{a28362e8-3355-5483-b808-f176054dc76a}",
+      "Name": "JetBrains dotPeek 2025.2.0.1",
+      "Version": "2025.2.0.1",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\User\\X64\\{e0ccb798-546e-5b78-aebc-1c5f854f930e}",
       "Name": "JetBrains ReSharper in Visual Studio Professional 2022 Preview",
-      "Version": "2025.1.5",
+      "Version": "2025.2.0.1",
       "Source": "Local PC"
     },
     {
       "Id": "ARP\\User\\X64\\{ee08fe42-9355-520d-9635-d7e40c138779}",
       "Name": "JetBrains ReSharper in Visual Studio Professional 2022",
-      "Version": "2025.1.5",
+      "Version": "2025.2.0.1",
       "Source": "Local PC"
     },
     {
@@ -4379,9 +4388,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\5319275A.WhatsAppDesktop_2.2531.4.0_x64__cv1g1gvanyjgm",
+      "Id": "MSIX\\5319275A.WhatsAppDesktop_2.2534.2.0_x64__cv1g1gvanyjgm",
       "Name": "WhatsApp",
-      "Version": "2.2531.4.0",
+      "Version": "2.2534.2.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4391,9 +4400,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\AppUp.IntelManagementandSecurityStatus_2405.6.0.0_x64__8j3eq9eme6ctt",
+      "Id": "MSIX\\AppUp.IntelManagementandSecurityStatus_2521.8.2.0_x64__8j3eq9eme6ctt",
       "Name": "Intel(R) Management and Security Status",
-      "Version": "2405.6.0.0",
+      "Version": "2521.8.2.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4463,15 +4472,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.CommandPalette_0.3.1871.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.CommandPalette_0.4.2230.0_x64__8wekyb3d8bbwe",
       "Name": "Command Palette",
-      "Version": "0.3.1871.0",
+      "Version": "0.4.2230.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Copilot_1.25074.143.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Copilot_1.25082.139.0_x64__8wekyb3d8bbwe",
       "Name": "Copilot",
-      "Version": "1.25074.143.0",
+      "Version": "1.25082.139.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4481,9 +4490,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.GamingApp_2507.1001.9.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.GamingApp_2508.1001.27.0_x64__8wekyb3d8bbwe",
       "Name": "Xbox",
-      "Version": "2507.1001.9.0",
+      "Version": "2508.1001.27.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4529,15 +4538,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.MicrosoftEdge.Stable_139.0.3405.86_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.MicrosoftEdge.Stable_139.0.3405.125_neutral__8wekyb3d8bbwe",
       "Name": "Microsoft Edge",
-      "Version": "139.0.3405.86",
+      "Version": "139.0.3405.125",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.MicrosoftOfficeHub_19.2508.37081.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.MicrosoftOfficeHub_19.2508.43121.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft 365 Copilot",
-      "Version": "19.2508.37081.0",
+      "Version": "19.2508.43121.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4589,9 +4598,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.OneDriveSync_25137.715.1.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.OneDriveSync_25140.720.1.0_neutral__8wekyb3d8bbwe",
       "Name": "OneDrive",
-      "Version": "25137.715.1.0",
+      "Version": "25140.720.1.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4601,9 +4610,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Paint_11.2506.91.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Paint_11.2506.111.0_x64__8wekyb3d8bbwe",
       "Name": "Paint",
-      "Version": "11.2506.91.0",
+      "Version": "11.2506.111.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4613,21 +4622,21 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerAutomateDesktop_11.2507.134.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerAutomateDesktop_11.2508.104.0_x64__8wekyb3d8bbwe",
       "Name": "Power Automate",
-      "Version": "11.2507.134.0",
+      "Version": "11.2508.104.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.FileLocksmithContextMenu_0.92.1.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerToys.FileLocksmithContextMenu_0.93.0.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys FileLocksmith Context Menu",
-      "Version": "0.92.1.0",
+      "Version": "0.93.0.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.PowerToys.PowerRenameContextMenu_0.92.1.0_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.PowerToys.PowerRenameContextMenu_0.93.0.0_neutral__8wekyb3d8bbwe",
       "Name": "PowerToys PowerRename Context Menu",
-      "Version": "0.92.1.0",
+      "Version": "0.93.0.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4661,9 +4670,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.StartExperiencesApp_1.87.0.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.StartExperiencesApp_1.92.1.0_x64__8wekyb3d8bbwe",
       "Name": "Start Experiences App",
-      "Version": "1.87.0.0",
+      "Version": "1.92.1.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4781,9 +4790,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsAlarms_1.1.29.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.WindowsAlarms_1.1.41.0_x64__8wekyb3d8bbwe",
       "Name": "Windows Clock",
-      "Version": "1.1.29.0",
+      "Version": "1.1.41.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4943,9 +4952,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsNotepad_11.2506.35.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.WindowsNotepad_11.2507.26.0_x64__8wekyb3d8bbwe",
       "Name": "Windows Notepad",
-      "Version": "11.2506.35.0",
+      "Version": "11.2507.26.0",
       "Source": "Microsoft Store"
     },
     {
@@ -4955,15 +4964,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.WindowsStore_22506.1401.9.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.WindowsStore_22507.1401.6.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft Store",
-      "Version": "22506.1401.9.0",
+      "Version": "22507.1401.6.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.Winget.Source_2025.811.1817.44_neutral__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.Winget.Source_2025.829.2243.55_neutral__8wekyb3d8bbwe",
       "Name": "Windows Package Manager Source (winget) V2",
-      "Version": "2025.811.1817.44",
+      "Version": "2025.829.2243.55",
       "Source": "Microsoft Store"
     },
     {
@@ -4997,15 +5006,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.YourPhone_1.25071.54.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.YourPhone_1.25081.83.0_x64__8wekyb3d8bbwe",
       "Name": "Phone Link",
-      "Version": "1.25071.54.0",
+      "Version": "1.25081.83.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\Microsoft.ZuneMusic_11.2505.2.0_x64__8wekyb3d8bbwe",
+      "Id": "MSIX\\Microsoft.ZuneMusic_11.2507.6.0_x64__8wekyb3d8bbwe",
       "Name": "Windows Media Player",
-      "Version": "11.2505.2.0",
+      "Version": "11.2507.6.0",
       "Source": "Microsoft Store"
     },
     {
@@ -5039,15 +5048,15 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\MicrosoftWindows.Client.WebExperience_525.18101.90.0_x64__cw5n1h2txyewy",
+      "Id": "MSIX\\MicrosoftWindows.Client.WebExperience_525.22301.90.0_x64__cw5n1h2txyewy",
       "Name": "Windows Web Experience Pack",
-      "Version": "525.18101.90.0",
+      "Version": "525.22301.90.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "MSIX\\MicrosoftWindows.CrossDevice_1.25071.33.0_x64__cw5n1h2txyewy",
+      "Id": "MSIX\\MicrosoftWindows.CrossDevice_1.25081.52.0_x64__cw5n1h2txyewy",
       "Name": "Cross Device Experience Host",
-      "Version": "1.25071.33.0",
+      "Version": "1.25081.52.0",
       "Source": "Microsoft Store"
     },
     {
